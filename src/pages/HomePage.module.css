@@ -1,0 +1,202 @@
+/* ---------- Hero: viñeta inclinada con líneas de velocidad ---------- */
+.hero {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  gap: var(--space-4);
+  padding: var(--space-7) var(--space-5);
+  border: var(--border-ink);
+  border-radius: var(--radius-panel);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-ink);
+  overflow: hidden;
+  transform: rotate(var(--panel-tilt));
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: -50%;
+  z-index: -1;
+  background: repeating-conic-gradient(from 0deg at 85% 40%, var(--color-halftone) 0deg 4deg, transparent 4deg 11deg);
+  animation: spin 60s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.kicker {
+  justify-self: start;
+  padding: var(--space-1) var(--space-3);
+  border: var(--border-thin);
+  background: var(--color-highlight);
+  color: var(--color-on-highlight);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  transform: rotate(-2deg);
+}
+
+.title {
+  font-size: var(--text-hero);
+  max-width: 14ch;
+  text-wrap: balance;
+}
+
+.amp {
+  color: var(--color-accent-text);
+}
+
+.lead {
+  max-width: 52ch;
+  font-size: var(--text-lg);
+  color: var(--color-text-muted);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+
+.cta,
+.ctaGhost {
+  display: inline-flex;
+  align-items: center;
+  min-height: 3rem;
+  padding: 0 var(--space-5);
+  border: var(--border-ink);
+  border-radius: var(--radius-panel);
+  font-family: var(--font-display);
+  text-decoration: none;
+  box-shadow: var(--shadow-ink-sm);
+  transition: transform var(--duration-fast) var(--ease-snap), box-shadow var(--duration-fast) ease;
+}
+
+.cta {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+.ctaGhost {
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+.cta:hover,
+.ctaGhost:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: var(--shadow-ink);
+}
+
+/* ---------- Sagas ---------- */
+.sagas {
+  margin-top: var(--space-8);
+}
+
+.sectionTitle {
+  font-size: var(--text-2xl);
+  margin-bottom: var(--space-5);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+  gap: var(--space-6) var(--space-5);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card {
+  /* Viñetas alternando inclinación, con entrada escalonada */
+  transform: rotate(calc(var(--panel-tilt) * (1 - 2 * mod(var(--i), 2))));
+  animation: rise 520ms var(--ease-snap) both;
+  animation-delay: calc(var(--i) * 80ms);
+}
+
+@keyframes rise {
+  from { opacity: 0; translate: 0 18px; }
+  to { opacity: 1; translate: 0 0; }
+}
+
+.cardLink {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  border: var(--border-ink);
+  border-radius: var(--radius-panel);
+  background: var(--color-surface);
+  color: var(--color-text);
+  text-decoration: none;
+  box-shadow: var(--shadow-ink);
+  overflow: hidden;
+  transition: transform var(--duration-fast) var(--ease-snap), box-shadow var(--duration-fast) ease;
+}
+
+a.cardLink:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 8px 8px 0 var(--color-ink);
+}
+
+/* "No disponible" se comunica con borde punteado y sin sombra, NO con opacidad:
+   la opacidad bajaría el contraste del texto por debajo de WCAG AA. */
+.cardLink[aria-disabled='true'] {
+  border-style: dashed;
+  box-shadow: none;
+}
+
+.cover {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  border-bottom: var(--border-ink);
+  background: var(--color-accent);
+  overflow: hidden;
+}
+
+.cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.soon {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  font-family: var(--font-display);
+  font-size: 4rem;
+  color: var(--color-on-accent);
+}
+
+.cardBody {
+  display: grid;
+  gap: var(--space-2);
+  padding: var(--space-4) var(--space-4) var(--space-5);
+  border-top: 8px solid var(--color-accent);
+}
+
+.cardTitle {
+  font-size: var(--text-xl);
+  color: var(--color-accent-text);
+}
+
+.tagline {
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.meta {
+  justify-self: start;
+  margin-top: var(--space-2);
+  padding: 0 var(--space-3);
+  border: var(--border-thin);
+  border-radius: var(--radius-pill);
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  font-size: var(--text-xs);
+  font-weight: 700;
+}

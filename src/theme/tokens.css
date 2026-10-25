@@ -1,0 +1,96 @@
+/*
+ * Tokens de diseño — Ozarus & Balls
+ * Capa 1: escalas que no dependen del tema (tipografía, espacio, bordes).
+ * Capa 2: color semántico POR TEMA. Los componentes nunca usan un hex directo.
+ * Capa 3: acento (--color-accent), que cada saga redefine en sagas.css.
+ * El contraste de cada par texto/fondo lo valida `npm run check:contrast`.
+ */
+
+:root {
+  /* Tipografía */
+  --font-display: 'Dela Gothic One', 'Arial Black', system-ui, sans-serif;
+  --font-body: 'Zen Kaku Gothic New', 'Segoe UI', system-ui, sans-serif;
+  --text-xs: 0.8125rem;
+  --text-sm: 0.9375rem;
+  --text-md: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: clamp(1.5rem, 1.2rem + 1.4vw, 2rem);
+  --text-2xl: clamp(2rem, 1.4rem + 3vw, 3.25rem);
+  --text-hero: clamp(2.6rem, 1.4rem + 6vw, 5.5rem);
+  --leading-tight: 1.05;
+  --leading-body: 1.65;
+
+  /* Espacio (escala 4px) */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --gutter: clamp(1rem, 0.6rem + 2vw, 2rem);
+  --content-max: 72rem;
+
+  /* Trazo de tinta: borde grueso + sombra plana desplazada (estética de viñeta de manga) */
+  --border-ink: 3px solid var(--color-ink);
+  --border-thin: 2px solid var(--color-ink);
+  --radius-panel: 4px;
+  --radius-pill: 999px;
+  --shadow-ink: 5px 5px 0 var(--color-ink);
+  --shadow-ink-sm: 3px 3px 0 var(--color-ink);
+  --panel-tilt: -0.6deg;
+
+  /* Movimiento */
+  --ease-snap: cubic-bezier(0.2, 0.9, 0.25, 1.2);
+  --duration-fast: 140ms;
+  --duration-base: 240ms;
+
+  /* Capas */
+  --z-header: 50;
+  --z-menu: 60;
+}
+
+/* ---------- Tema amarillo-naranja (claro): papel de manga, tinta y naranja del gi ---------- */
+:root,
+:root[data-theme='orange'] {
+  color-scheme: light;
+  --color-bg: #fff4dc;
+  --color-surface: #fffbf1;
+  --color-surface-alt: #ffe6b0;
+  --color-ink: #1b1208;
+  --color-text: #1b1208;
+  --color-text-muted: #5a4430;
+  --color-primary: #f0650f;
+  --color-on-primary: #1b1208;
+  --color-primary-strong: #a83c00;
+  --color-highlight: #ffc21a;
+  --color-on-highlight: #1b1208;
+  --color-halftone: rgb(240 101 15 / 0.16);
+  --color-focus: #0b57d0;
+}
+
+/* ---------- Tema crimson (oscuro): vino profundo, carmesí y oro ---------- */
+:root[data-theme='crimson'] {
+  color-scheme: dark;
+  --color-bg: #1a0a0e;
+  --color-surface: #260f16;
+  --color-surface-alt: #3a1420;
+  --color-ink: #f3d6dc;
+  --color-text: #fbeef1;
+  --color-text-muted: #d4a9b3;
+  --color-primary: #dc143c;
+  --color-on-primary: #ffffff;
+  --color-primary-strong: #ff6b86;
+  --color-highlight: #f2c14e;
+  --color-on-highlight: #1a0a0e;
+  --color-halftone: rgb(220 20 60 / 0.22);
+  --color-focus: #f2c14e;
+}
+
+/* Capa 3: acento por defecto = primario del tema (sagas.css lo redefine dentro de [data-saga]) */
+:root {
+  --color-accent: var(--color-primary);
+  --color-on-accent: var(--color-on-primary);
+  --color-accent-text: var(--color-primary-strong);
+}

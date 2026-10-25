@@ -1,0 +1,66 @@
+/*
+ * Identidad por saga. Regla: la saga SOLO define el acento; el tema define todo lo demás.
+ * Cada saga declara su acento para ambos temas, porque un mismo color no contrasta igual
+ * sobre papel crema que sobre vino oscuro.
+ *   --saga-accent       relleno (bandas, insignias, botones)
+ *   --saga-on-accent    texto sobre el relleno
+ *   --saga-accent-text  texto en color de acento sobre el fondo del tema
+ */
+
+[data-saga] {
+  --color-accent: var(--saga-accent);
+  --color-on-accent: var(--saga-on-accent);
+  --color-accent-text: var(--saga-accent-text);
+}
+
+/* Dragon Ball clásico — azul de las muñequeras y el cielo de la aventura */
+:root [data-saga='dragon-ball'],
+:root[data-theme='orange'] [data-saga='dragon-ball'] {
+  --saga-accent: #1f6fd1;
+  --saga-on-accent: #ffffff;
+  --saga-accent-text: #1559ad;
+}
+:root[data-theme='crimson'] [data-saga='dragon-ball'] {
+  --saga-accent: #6aa8ff;
+  --saga-on-accent: #0b1424;
+  --saga-accent-text: #8dbcff;
+}
+
+/* Dragon Ball Z — naranja intenso del gi */
+:root [data-saga='z'],
+:root[data-theme='orange'] [data-saga='z'] {
+  --saga-accent: #e8590c;
+  --saga-on-accent: #1b1208;
+  --saga-accent-text: #a83c00;
+}
+:root[data-theme='crimson'] [data-saga='z'] {
+  --saga-accent: #ff9447;
+  --saga-on-accent: #1a0a0e;
+  --saga-accent-text: #ffa766;
+}
+
+/* Dragon Ball GT — verde de los Dragones Oscuros / Shenron */
+:root [data-saga='gt'],
+:root[data-theme='orange'] [data-saga='gt'] {
+  --saga-accent: #267f39;
+  --saga-on-accent: #ffffff;
+  --saga-accent-text: #1f6a2f;
+}
+:root[data-theme='crimson'] [data-saga='gt'] {
+  --saga-accent: #63d47a;
+  --saga-on-accent: #0b1a0f;
+  --saga-accent-text: #7ee093;
+}
+
+/* Dragon Ball Super — violeta de los dioses de la destrucción */
+:root [data-saga='super'],
+:root[data-theme='orange'] [data-saga='super'] {
+  --saga-accent: #6741d9;
+  --saga-on-accent: #ffffff;
+  --saga-accent-text: #5432b8;
+}
+:root[data-theme='crimson'] [data-saga='super'] {
+  --saga-accent: #b197fc;
+  --saga-on-accent: #160d2b;
+  --saga-accent-text: #c4b0ff;
+}

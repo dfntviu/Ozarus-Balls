@@ -1,0 +1,658 @@
+[
+  {
+    "id": "abuelo-gohan-dragon-ball",
+    "name": "Abuelo Gohan",
+    "saga": "dragon-ball",
+    "description": "Son Gohan es un personaje, que fue maestro experto de Artes marciales durante su juventud y dicípulo del Maestro Roshi. Aunque su apariencia es la de un anciano bondadoso, Gohan poseía un considerable nivel del poder en comparación con los humanos comunes, siendo capaz de utilizar técnicas avanzadas de combate como el kamehameha, que aprendió bajo la tutlea de Roshi. Son Gohan, es recordado por haber sido de los pocos humanos que sobrevivio al ataque inicial de Goku transformando en Ozaru, auque esto le costo la vida. Si bien no tuvo la oportunidad de combatir en batallas épicas u obtener técnicas devastadoras, su legado más grande fue qué introdujo a Goku al mundo de las artes marciales.",
+    "image": "dragon.ball/Img05.Son-Gohan.jpg",
+    "weaknesses": [
+      {
+        "name": "Compasion",
+        "description": "Su bondad será explotada en combate, ya que no atacaría sin razón justificada"
+      },
+      {
+        "name": "Nivel de Poder Limitado",
+        "description": "Su poder, aunque es respetable, es bajo comparado con los demás guerreros y extraterrestres Kame"
+      },
+      {
+        "name": "S/Transformacion",
+        "description": "No posee habilidades especiales como transformaciones por ende, no puede obtner niveles altos de poder."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  {
+    "id": "yamcha-dragon-ball",
+    "name": "Yamcha",
+    "saga": "dragon-ball",
+    "description": "Inicialmente, Yamcha es un luchador con cualidades, conocido por su técnica especial el Rogafufuken[colmillo del lobo].Tras unirse al equipo Kame se convierte en uno de sus aliados mas cercanos del grupo. Sin en cambio, Yamcha sufre de inseguridades personales, especialmente en encuentros con las mujeres. A medida que la historia avanza y los enemigos consiguen niveles altos de poder; esté se muestra eclipsado. Además, cuándo las batallas son complicadas suele alejarse del campo de batalla; aún así es recordado por su valentía frente a sus enemigos y momentos cómicos. Que se convierten icónicos para sus seguidores.",
+    "image": "dragon.ball/Img09.Yamcha.jpg",
+    "techniques": [
+      {
+        "name": "ZanzoKen",
+        "description": "Técnica de velocidad que deja una imagen residual del guerrero, confundiendo al adversario."
+      },
+      {
+        "name": "FufuKen",
+        "description": "Un estilo de combate feroz basado en ataques rápidos y salvajes, complementario al Rogafufuken"
+      },
+      {
+        "name": "Colmillo del Lobo - Rogafufuken",
+        "description": "Es la técnica más icónica, una combinación de golpes rápidos inspirados en los movimientos de un lobo."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "ZanzoKen"
+  },
+  {
+    "id": "bulma-dragon-ball",
+    "name": "Bulma",
+    "saga": "dragon-ball",
+    "description": "Bulma es uno de los personajes principales de Dragon Ball, introducida desde el primer capitulos del manga. Es un genio de la tecnología e hija del fundador de la corporación Capsula. A pesar de no tener habilidades de combate, su intelitencia y destrezas tecnólogicas la convierten en miembro crucial del equipo de son Goku. Sus invencionses como el Radar y las cápsulas Hoi-poi, son fundamentales en la busquedas de las esferas del dragón y en diversas aventuras. A lo largo de la serie se muestra su liderazgo estratégico además de ser un pilar en las misiónes importantes. Origen:",
+    "image": "dragon.ball/Img04.Bulma.jpg",
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  {
+    "id": "oolong-dragon-ball",
+    "name": "Oolong",
+    "saga": "dragon-ball",
+    "description": "Es un chanchito atropomorfico con la habilidad de cambiar de forma, habilidad que aprendio en la escuela de transformación. Originalmente se presenta como un villano menor, utilizando su poder para asustar y controlar a los aldeanos, pero rápidamente se une al grupo de la insignia de la tortuga, despues de ser derrotado por Goku. Su nivel de poder es demasiado bajo, a diferencia de los demás no posee ninguna técnica avanzada ni el control de Ki.",
+    "image": "dragon.ball/Img08.Ulon.jpg",
+    "techniques": [
+      {
+        "name": "Cambio",
+        "description": "Le permite transformarse en cualquier objeto o ser vivo por 5 minutos.Despues de ello debe descansar."
+      },
+      {
+        "name": "Det. de Peligro",
+        "description": "No es habilidad pero tiene un fuerte instinto para percibir el peligro, esto le permite evitar situacion dificíles"
+      },
+      {
+        "name": "Conducción",
+        "description": "Es un excelente conductor y ha manejado diversos vehículos a lo largo de la serie."
+      }
+    ],
+    "role": "support",
+    "race": "anthropomorphic",
+    "tier": 1,
+    "signatureTechnique": "Cambio"
+  },
+  {
+    "id": "puar-dragon-ball",
+    "name": "Puar",
+    "saga": "dragon-ball",
+    "description": "Es un gato antropomorfico y mejor amigo de yamcha,conocido por su habilidad para transformarse en diferentes objetos y seres, aunque su habilidad de transformación en diferentes objetos,seres , aunque su capacidad de transofrmación es menos versatil que la de Oolong. Puar no tiene habilidades de combate, el principal rol es aportar humor y apoyo a yamcha en sus aventuras. Su lealtad y agilidad lo convierten en un amigo entrañable. Su primera aparición fue en él capítulo número 5 del manga. Puar es un compañero leal y divertido que acompaña a Yamcha a lo largo de su viaje en dragón ball. aunque carece de poder de combate comparado con los guerreros principales, su habilidad para transformarse le da una ventaja en algunas situaciones. Puar es un personaje cómico que alivia las tensión en las batallas y su amistad con Yamcha resalta su carácter leal y solidario. A pesar de que su nivel de poder es casi nulo, añade un valor a la historia con su ingenio. su personalidad cómica y la amistad con Yamcha lo amerita como un personaje memorable.",
+    "image": "dragon.ball/Img07.Puar.jpg",
+    "techniques": [
+      {
+        "name": "Ayuda en combate",
+        "description": "Aunque no lucha directamente, Puar proporciona apoyo moral a Yamcha durante las peleas con su ingenio y estratégias."
+      },
+      {
+        "name": "tácticas de distracción",
+        "description": "Usa su capacidad de transformación para distraer a los enemigos, permitiendo que yamcha y sus amigos ataque o escapen según sea el caso."
+      }
+    ],
+    "role": "support",
+    "race": "anthropomorphic",
+    "tier": 1,
+    "signatureTechnique": "Ayuda en combate"
+  },
+  {
+    "id": "kamisama-dragon-ball",
+    "name": "Kamisama",
+    "saga": "dragon-ball",
+    "description": "Kamisama es el guardián de la Tierra, es un ser divino que proviene del planeta Namekusei. A pesar de no ser un guerrero extremadamente fuerte, sus poderes mágicos y su sabiduría lo conviernte en un personajes clave en la protección del planeta. Fue el creador de las esfera del dragón y juega un rol escencial como mentor y guía espiritual en los guerreros z, ayudándolos en momentos critícos. Su primera aparición en la serie ocurre cuándo Goku busca revivir a Shenlong, lo que marca el inicio de su relación como protector y consejero.",
+    "image": "dragon.ball/Img11.Camisama.jpg",
+    "techniques": [
+      {
+        "name": "Teletransportación",
+        "description": "Kami tiene la capacidad de teletransportarse instantáneamente a diferentes lugares, lo que le permite desplazarse rápidamente."
+      },
+      {
+        "name": "Curación",
+        "description": "Es capaz de sanar héridas y recuperar la energía de aquellos que lo necesitam aunque no es su función principal."
+      },
+      {
+        "name": "Ki-Sensori",
+        "description": "Kami puede sentir la energía de otros seres lo que le permite detectar la presencia de luchadores fuertes."
+      },
+      {
+        "name": "Clima",
+        "description": "Posee la habilidad de influir en el clima de la tierra, aunque no se utiliza frecuentemente en la serie."
+      }
+    ],
+    "role": "hero",
+    "race": "namekian",
+    "tier": 4,
+    "signatureTechnique": "Teletransportación"
+  },
+  {
+    "id": "maestro-roshi-dragon-ball",
+    "name": "Maestro Roshi",
+    "saga": "dragon-ball",
+    "description": "El maestro rosho es ele legendario maestro de las artes marciales en Ball, conocido por entrenar por goku y krillin y por su dominio en el kamehameha. aunque a menudo actua de manera pevertid y cómica, es un guerrero sabio y poderoso que juega un papel clave en el desarrollo de los guerreros Kame. Roshi sigue siendo un mentor importante, aportando su vasta experiencia y habilidad en momentos desicivos y/o clave, como en los primeros torneos de las artes marciales.",
+    "image": "dragon.ball/maestro.roshi.jpg",
+    "techniques": [
+      {
+        "name": "tornado de fuego",
+        "description": "Roshi crea un vortice de fuego, que lanza contra sus oponentes, envolviendolos en llamas."
+      },
+      {
+        "name": "mafuba",
+        "description": "Es una técnica poderosa que sella a tu oponente en un contenedor de comida. Aunque efectiva, es extremadamente peligrosa y agotadora para quien necesite emplearla."
+      },
+      {
+        "name": "Max Power",
+        "description": "Roshi expande su masa muscular para multiplicar su fuerza y la potencia de su Kamehameha. Con ella apagó el fuego de la Montaña Frypan y destruyó la Luna."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "tornado de fuego"
+  },
+  {
+    "id": "jackie-chun-dragon-ball",
+    "name": "Jackie Chun",
+    "saga": "dragon-ball",
+    "description": "Jackie-Chun, es la identidad secreta del maestro Roshi, aparece en el torneo Mundial de Artes marciales como un luchador enérgico y talentoso. Aunque es un personaje cómico, su poder y habilidad son series y utiliza su sabiduría para enseñar lecciones importantes a sus disípulos, como Goku y Krillin, a través de la competencia.",
+    "image": "dragon.ball/Img.Jacki-chul.jpg",
+    "techniques": [
+      {
+        "name": "Baiting",
+        "description": "Utiliza su astucia para logra que sus oponentes caigan en sus trampas, haciendolos subestimar su poder."
+      },
+      {
+        "name": "Control de Ki",
+        "description": "Muestra un excelente control de la energía, utilizándola para ataques y defensa en combate."
+      },
+      {
+        "name": "Hipnosis",
+        "description": "Durante el torneo de Artes marciales, jackie chun utiliza la hipnosis para dormir a sus oponentes, debilitandolos o dejándolosvulnerables de ataques."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "Baiting"
+  },
+  {
+    "id": "uranai-baba-dragon-ball",
+    "name": "Uranai Baba",
+    "saga": "dragon-ball",
+    "description": "Uranai Baba es la hermana de Roshi y una poderosa adivina de dragón ball. A pesar de su pequeño tamaño y edad avanzada, su capacidad para ver el futuro y convocar a los guerreros de la insigna de la tortuga. la convierte en una aliada valiosa para los guerreros. no participa en combates fisícos, pero su influencia es fundamental en momentos decisivos de la serie.",
+    "image": "dragon.ball/Img10.uranai-baba.jpg",
+    "techniques": [
+      {
+        "name": "Vuelo en Bola de Cristal",
+        "description": "Utiliza una bola de cristal como medio de transporte, volando sobre ella en grandes velocidades."
+      },
+      {
+        "name": "Inmortalidad",
+        "description": "Baba no envejence al ritmo normal de un ser humanao, lo que le permite mantener su edada avanzada por los siglos."
+      },
+      {
+        "name": "Predicción",
+        "description": "Baba puede predecir el futuro y localizar objetos o persona a traves de su bola de crista. Es una de las mejores adivinas del mundo."
+      }
+    ],
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Vuelo en Bola de Cristal"
+  },
+  {
+    "id": "ten-shin-han-dragon-ball",
+    "name": "Ten Shin Han",
+    "saga": "dragon-ball",
+    "description": "Tenshinhan es un personaje serio y disiplinado que comienza como rival de Goku, pero eventualmente se convierete en un aliado de los guerreros z. Entrenado por el maestro Tsuru, posee habilidades especiales gracias a su herencia de tres ojos, lo que le permite utilizar técnicas únicas. Tenshinhan sigue siendo uno de los humanos más poderosos de la serie, demostrando la valentía y habilidad en muchas batallas clave a lo largo de Dragón Ball.",
+    "image": "dragon.ball/Img20-Ten.shin.han.jpg",
+    "techniques": [
+      {
+        "name": "Dodonpa",
+        "description": "Es un rayo de energía que concentrafda que dispara de los dedos. Es una técnica aprendida de sus maestro, el maestro Tshuru."
+      },
+      {
+        "name": "Taioken",
+        "description": "Se genera un destello cargador de luz, capaz de dejar temporalmente ciegos a sus opontes. Esta técnica es utilizada frecuentemente para escapar o ganar gran ventaja en combate. Fuero de estas normas es considerado como un golpe bajo."
+      },
+      {
+        "name": "sushin-no-ken",
+        "description": "El terricola TenShinHan es capaz de divirse en cuatro copias de sí mismo. Aunque cada copia tiene una sola fracción de su poder original, puede atacar desde múltiples direcciónes."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 4,
+    "signatureTechnique": "Dodonpa"
+  },
+  {
+    "id": "oxatan-dragon-ball",
+    "name": "Oxatan",
+    "saga": "dragon-ball",
+    "description": "Gyumao u Oxatan es un persona fuerte y bondadoso. Inicialmente presnetado como un guerrero que custodia su castillo en la montaña de fuego. A pesar de su apariencia intimídante, se revela como un padre cariñoso de Milk y/po Chihi y con el tiempo un aliado de Goku. Aunque su nivel de pelea es bsatante bajo en comparación con los demás guerreros, su fuerza física y su pasado como discípulo del maestro Roshi lo convierten en un luchador respetable. Con el tiempo, adopta un papel más familiar y protector, siendo un figura importante en la vida de goku y su familia.",
+    "image": "dragon.ball/Img21-.Oxatan-old.jpg",
+    "techniques": [
+      {
+        "name": "entrenamiento marcial",
+        "description": "No utiliza técnica avanzadas de Ki. Oxatan fue entrenado por el maestro Roshi, lo que le otorga habilidades básicas en artes marciales."
+      },
+      {
+        "name": "resistencia mejorada",
+        "description": "Debido a su gran tamaño y musculatura, tiene una resistencia fisíca muy superior a los de una persona común."
+      },
+      {
+        "name": "uso de armas",
+        "description": "Es experto en el uso de armas grandes, como hachas, martillos, que maneja con facilidad gracias a su fuerza."
+      }
+    ],
+    "role": "support",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "entrenamiento marcial"
+  },
+  {
+    "id": "mr-popo-dragon-ball",
+    "name": "Mr. Popo",
+    "saga": "dragon-ball",
+    "description": "Mister popo es el fiel sirvente de kamisama, encargado de cuidar el templo sagrado y entrenar a los guerreros que buscan mejorar sus habilidades. Aunque su nivel de poder no es es tan alto como los demás guerreros en batallas avanzadas, su conocimiento y experiencia en las artes marciales lo convierten en un entrenador valioso. mister-popo es un personaje sabio y tranquilo, que desempeña un papel crucial en la preparación de lo héroes para enfrentar grandes amenazas.",
+    "image": "dragon.ball/Img12.Mr-Popo.jpg",
+    "techniques": [
+      {
+        "name": "conocimiento antigÜo",
+        "description": "No es una técnica en el sentido convencional,Mister Popo posee un cumúlo de conocimento de las antiguas artes marciales y secretos sobre la tierra, que utiliza para guíar y entrenar a los guerreros."
+      },
+      {
+        "name": "Técnica Avanzadas Ent",
+        "description": "Mister.Popo entren a los guerreros mediante métodos únicos y avanzados, ayudándolos a mejorar tanto en velocidad como en fuerza."
+      },
+      {
+        "name": "Mov. Instantáneo",
+        "description": "Mister Popo puede moverse a velocidadades extremadamente rápidas ,casi teletransportándose a cortas distancias."
+      },
+      {
+        "name": "Espada de Katchin",
+        "description": "Mister Popo utiliza una espada extremadamente resistente durante los entrenamientos de los guerreros."
+      }
+    ],
+    "role": "support",
+    "race": "alien",
+    "tier": 3,
+    "signatureTechnique": "conocimiento antigÜo"
+  },
+  {
+    "id": "chi-chi-dragon-ball",
+    "name": "Chi-Chi",
+    "saga": "dragon-ball",
+    "description": "Chichi es conocida como milk en algunas versiones, es la hija del rey ox(gyumayo) y la futura esposa de Son-Goku. aparece por primera vez como una niña durante las primeras aventuras en la inquebrantable y magnifica hazaña en la búsqueda de las bolas del dragón. desde pequeña, chichi ha demostrado ser valiente y decidida, aunque en esta etapa de su vida es principlamente un personaje cómico. En su próxima saga,tendrá un enfrentamiento con su amigo Goku por un comprosimo olvidado.",
+    "image": "dragon.ball/Img18.kid-milk.jpg",
+    "techniques": [
+      {
+        "name": "uso de espada",
+        "description": "Desde kid, demuestra ser hábil con su espada, que usa en varias ocasiones para defenderse y/o atacar a sus oponentes."
+      },
+      {
+        "name": "rayo de su casco",
+        "description": "En su primera aparición. Chi-chi usa un rayo de energía lanzado desde su casco, una arma con la que protege a su padre y a ella misma."
+      },
+      {
+        "name": "Comb. cuerpo a cuerpo",
+        "description": "Chichi es capaza de pelear usando sus habilidades marciales básicas, defendiendo su honor y familia ante situaciones difíciles."
+      }
+    ],
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "uso de espada"
+  },
+  {
+    "id": "bora-dragon-ball",
+    "name": "Bora",
+    "saga": "dragon-ball",
+    "description": "Bora es un guerrero honorable que protege a la tierra sagrada de Karin y es el padre del joven upa. su lealta, coraje y habilidades fisícas lo convierten en un personaje feroz. aunque su nivel de pode no alcanza el de los principales de la serie. a pesar de su trágica muerte a manos de Tao Pai Pai, Bora es revivido más tarde gracias a las esferas del dragón, permitiéndole continuar cuidando de su hijo Upa y de la tierra sagrada.",
+    "image": "dragon.ball/Img-Bora.jpg",
+    "techniques": [
+      {
+        "name": "Fuerza sobrehumana",
+        "description": "Bora posee una fuerza física excepcional, capaz de derrotar a varios soldado del Ejército de la Patrulla roja[red-ribbon] con facilidad."
+      },
+      {
+        "name": "Lanza",
+        "description": "Este utiliza una lanza en el combate, lo que le permite atacar con fuerza y presición, fdefendiendo tanto su hogar como a su hijo."
+      },
+      {
+        "name": "Resistencia Max",
+        "description": "A pesar se ser un ser humano y/o terricola, Bora tiene una resistencia fisíca elevada , lo que le permite aguantar golpes fuertes y seguir luchando."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Fuerza sobrehumana"
+  },
+  {
+    "id": "yajirobe-dragon-ball",
+    "name": "Yajirobe",
+    "saga": "dragon-ball",
+    "description": "Yajirobe es un espadachin fuerte pero cobarde, que prefiere evitar las peleas siempre que sea posible. aunque inicialmente es un solitario, termina ayudando a los guerreros en varias ocasiones, siendo su momento más memorable el corte de la cola de vegeta. su relación con karin y su amor por la comida son aspectos cómicos que lo define, y aunque no es un guerrero activo, su presencia es útil en momentos cruciales. A pesar de ser peresoso y cobarte es un personaje importante el la franquicia del dragón. Su habilidad con la espada adicionando su naturaleza cómica lo convierten en un personaje importante.",
+    "image": "dragon.ball/Img06.Yajirobe.jpg",
+    "techniques": [
+      {
+        "name": "Hab. de Espada",
+        "description": "Al pertenecer a los espadachin, Yajirobne utiliza su espada con gran destreza, como cuando corta la cola de veguet en forma de ozaru."
+      },
+      {
+        "name": "Técnicas de supervivencia",
+        "description": "El gran Yahirobe vive solo en las montañas, lo que le ha dado grandes habilidades de supervivencia, como la capacidad de cazar, recolectar alimentos y subsistir por su cuenta."
+      },
+      {
+        "name": "Resistencia",
+        "description": "A pesar de no ser un guerrero constante, yajiro resiste atques fuertes, demostrando que su cuerpo es robusto y duradero."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Hab. de Espada"
+  },
+  {
+    "id": "goku-dragon-ball",
+    "name": "Goku",
+    "saga": "dragon-ball",
+    "description": "Son Goku es el protagonista de Dragón Ball y uno de los personajes más icónicos del anime. Su origen como Saiyajin lo dota de una fuerza sobrehumanam y su deseo es siempre volverse más fuerte lo lleva a entrenar constantemente y a enfrentarse a los enemigos más formidables del universo. A pesar de ser un guerrero feroz, Goku es humilde y tiene un corazón puro, valorando la amistad y la justicia por encima de todo. Su evolución y/o desarrollo como guerrero es marcada por su capacidad de superar límites , convirtiéndose en un héroe defensor de la tierra y del universo.",
+    "image": "dragon.ball/img01-son.Goku.bse.jpg",
+    "techniques": [
+      {
+        "name": "Janken",
+        "description": "Es una técnica de combate en la que Goku usa sus movimientos inspirados en el juego 'piedra, papel o tijera' para atacar al oponente."
+      },
+      {
+        "name": "Kamehameha",
+        "description": "Es la técnica icónica aprendida del Maestro Roshi, en la que Goku concentra su energía en sus manos y las lanza en un poderoso rayo destructor."
+      },
+      {
+        "name": "Transf. Ozaru",
+        "description": "Debido a su herencia como sayajin, goku puede transformarse en un mono-gigantesco al mirar la luna llena, multiplicando su poder, pero perdiendo el jucio y control de su mente[la razón]."
+      }
+    ],
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Janken"
+  },
+  {
+    "id": "chaoz-dragon-ball",
+    "name": "Chaoz",
+    "saga": "dragon-ball",
+    "description": "Chaoz es un pequeño guerrero y/o luchador psíquico y fiel compañero de Tenshinhan, con quien entrenó bajo las enseñanzas del maestri tsuru(maestro grulla). su apariencia es similar a la de un muñeco japones, y aunque no es fisícamente fuerte como otros personajes, sus habilidades psíquicas y su lealtad lo hacen un aliado valioso. A pesar de su aparienci frágil su estatura pequeña, Chaoz tiene un gran sentido de honor y el deber, peleando junto a los guerreros kame en varias ocasiones. La disposición de sacrificarse en batallas complejas es épico demuestra su audacia y coraje demuestran la lealtad hacia sus amigos.",
+    "image": "dragon.ball/Img09-chaosen.jpg",
+    "techniques": [
+      {
+        "name": "manipulación mental",
+        "description": "Chaoz tiene la capacidad de influir en la mente de sus oponentes, en consecuencia provocando la pérdida de la concentración, ó bien que tomen desiciónes erráticas."
+      },
+      {
+        "name": "Dodonpa",
+        "description": "Es una técnica de energía similar al kamehameha, pero mucho más rápida y precisa.Es enseñada por el maestro tsuru."
+      },
+      {
+        "name": "Paralización Mental",
+        "description": "Chaoz es le es posible paralizar a sus oponente con su mente, dejándolos inmóviles durante un breve período de tiempo, lo que le da una ventaja en combate."
+      }
+    ],
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "manipulación mental"
+  },
+  {
+    "id": "rey-piccolo-dragon-ball",
+    "name": "Rey Piccolo",
+    "saga": "dragon-ball",
+    "description": "El rey piccolo es un demonio que proviene de un planeta lejano al Sistema Solar, una entidad demoniaca. Es una de las rencarciones del Namequsein Piccolo Daimaku. Su objetivo es dominar al mundo y eliminar a los guerreros que se opongan; Tiene su primera aparición despues del segundo torneo de las artes marciales, el rey piccolo escupe un huevo y así nación hijo Piccolo Jr. quién es su único legado.",
+    "image": "Villanos/Img17-rey.Piccolo.jpg",
+    "techniques": [
+      {
+        "name": "Rayo Mortal[Makankōsappō]",
+        "description": "El Rey Piccolo puede lanzar un potente rayo de energía destructiva desde sus manos. Este ataque es similar al Kamehameha",
+        "impact": "max"
+      },
+      {
+        "name": "Ojo Demoníaco[Demon's eye]",
+        "description": "Utiliza su habilidad para lanzar un rayo de sus ojos, que puede causar o incapacitar a sus enemigos",
+        "impact": "mid"
+      },
+      {
+        "name": "Destello del Infierno[Hell's Flash]",
+        "description": "El Destello del Infierno es una técnica que concentra su energí para liberar un rayo de energía extremadamente destructivo.",
+        "impact": "high"
+      },
+      {
+        "name": "Regeneración",
+        "description": "Este tiene la capacidad de regenerar las partes de su cuerpo dañadas, lo que lo hace muy dificíl derrocarlo en combate."
+      }
+    ],
+    "role": "villain",
+    "race": "namekian",
+    "tier": 5,
+    "signatureTechnique": "Rayo Mortal[Makankōsappō]"
+  },
+  {
+    "id": "tao-pai-pai-dragon-ball",
+    "name": "Tao Pai Pai",
+    "saga": "dragon-ball",
+    "description": "El guerrero terrícola tao.pai.pai es un asesino profesional y uno de los antagonistas de la primera serie de Dragon Ball. Es conocido por su habilidad en combate y su reputación temible como asesino implacable y eficaz. éste tuvo su primera aparición en la Red Ribbon cuándo fue contrado por el emperador Pilaf, para asesinar a Son Goku[Goku].",
+    "image": "Villanos/Tao-pai-pai.jpg",
+    "techniques": [
+      {
+        "name": "Dodon Ray[Do Don Pa]",
+        "description": "Utiliza un rayo mortal concentrado de energía se dispara de sus manos, es extremadamente fuerte pues puede atravesar las defensas más fuertes inclusive.",
+        "impact": "mid"
+      },
+      {
+        "name": "Técnicas de Asesinato",
+        "description": "Pai.Pai es un experto en artes marciales y técnicas de Asesinato, lo que le permite realizar movimientos letales con gran presición y rápidez.",
+        "impact": "max"
+      },
+      {
+        "name": "Técn. de Vuelo",
+        "description": "Utiliza una nube de vuelo llamado Kinto-Un para desplazarse rápidamente por el aire, aunque esta técnica no es tan destacada como en otros personajes de la serie."
+      }
+    ],
+    "role": "villain",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "Dodon Ray[Do Don Pa]"
+  },
+  {
+    "id": "emperador-pilaf-dragon-ball",
+    "name": "Emperador Pilaf",
+    "saga": "dragon-ball",
+    "description": "Pillaf es un villano infantil que lidera a la Pilaf Gang y busca conquistar al mundo utilizando las esferas del dragón. Su tecnología y métodos no son avanzados ni peligrosos, el rol que prevalece en la serie es cómico. Su primera emisión es en los capitulos 12 al 18 de Ball quien enfrenta a goku y a sus amigos en la búsqueda de las esferas. Es la especie de un dictador. Junto a su fiel tripulación: El guardaespaldas Guf y su Asistente Mai.",
+    "image": "dragon.ball/Img13.Pilaf.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "general-blue-dragon-ball",
+    "name": "General Blue",
+    "saga": "dragon-ball",
+    "description": "El general Blue es miembro de la Red Ribbon, este posee una actitud arrogante y se destaca más que nada por sus habilidad de telequinesis y su rayo psiquíco, que le permiten manipular objetos y atacar a distancia. Aunque, no alcanza el mismo nivel que nuestros guerreros; es un adversario formidable. su papel en la saga, es el de un enemigo que utiliza tanto su destreza de combate como sus habilidades psiquícas, reflejando el carácter cruel en los altos mandos de la Pratrulla Roja. Es un general muy astuto.",
+    "image": "dragon.ball/Img15.Grl-Blue.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 2,
+    "faction": "red-ribbon"
+  },
+  {
+    "id": "general-red-dragon-ball",
+    "name": "General Red",
+    "saga": "dragon-ball",
+    "description": "El General Red es conocido en esta saga, por su ambición desmedida y su autoritarismo. Aunque no posee habilidades excepcionales su principal caracteristíca radica para comandar y dirigir a su ejército. Su papel es crucial para el desarrollo del arco, ya que representa la carta de del poder y corrupción de la Red Ribbon. Su papel subraya como el cerebro detrás de la Red Ribbon.",
+    "image": "dragon.ball/grl-red.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 1,
+    "faction": "red-ribbon"
+  },
+  {
+    "id": "maestro-shen-dragon-ball",
+    "name": "Maestro Shen",
+    "saga": "dragon-ball",
+    "description": "El maestro Sheen es el Hermano de Roshi, se destaca por su profundo conocimiento y su sabiduría en las artes marciales. Aunque fue un luchador, su principal caracteritíca icnonica es la habilidad para enseñar y guíar a otros por el combate y la Filosofía. El rol que utiliza es escencial en la trama ya que actúa como mentor y fuente de sabiduría para nuestros heroes, contribuyendo en el desarrollo de la historia al proporiconales las lecciónes necesarias para enfrentar a sus desafíos. Su presencia subraya la vital importancia de la enseñanza y el aprendizaje en el progreso de los personajes.",
+    "image": "dragon.ball/Img9.Master-Shen.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 2
+  },
+  {
+    "id": "ninja-purpura-dragon-ball",
+    "name": "Ninja Púrpura",
+    "saga": "dragon-ball",
+    "description": "El Ninja Púrpura es un villano destacado, en la saga original destacado por su habilidad y astucia en combate. Su principal caracteristíca es la maestría en técnicas ninja y su sigilosa estrategia de batalla, lo que lo convierte en un oponente dificíl de vencer. Aunque la dominación puede variar, generalmente sus acciones son en busca de poder o venganza. Su papel en la historia es vital, ya que este introduce desafíos significativos para los protagonistas y revela los aspectos del conflicto que necesitan ser superados. El Ninja Purpura representa la amenza constante que pone a prueba las habilidades y la determinación de nuestros héroes.",
+    "image": "dragon.ball/Img16.ninja-Purpura.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 2,
+    "faction": "red-ribbon"
+  },
+  {
+    "id": "demonio-mai-dragon-ball",
+    "name": "Demonio Mai",
+    "saga": "dragon-ball",
+    "description": "Es distinguido por su agilidad y sus habilidades sobrenaturales. Aunque su poder de combate es notable, su principal atributo es un papel como su leal siriviente del rey piccolo, ejecutando sus órdenes y llevando a cabo tareas cruciales en su nombre. El personaje resalta influencia en el alcance del Poder del rey Piccolo, enfatizando la amenaza que representa y contribuyendo en el desarrollo del conflicto central. Fue vital su aparición, pues gracias a ella acccionó cómo intermediario entre Piccolo y los nuestros Guerreros.",
+    "image": "dragon.ball/ayudante.picolo.jpg",
+    "techniques": [
+      {
+        "name": "Múltiples rayos",
+        "description": "Es capaz de disparar rayos de energía. Estos rayos pueden atacar a multiples objetivos al mismo tiempo y bastanate efectivos en combate.",
+        "impact": "high"
+      },
+      {
+        "name": "Ataq. de Alas",
+        "description": "Utiliza sus alas para realizar ataques fisícos o para lanzar ondas de energía desde el aire, lo que le da una ventaja en el combate aéreo.",
+        "impact": "mid"
+      },
+      {
+        "name": "técnicas de Ilusión",
+        "description": "El demonio Mai tiene la capacidad de crear ilusiones o manipular su entorno para confundir a sus enemigos, aunque estas técnicas no son tan avanzadas, como la de los otros personajes.",
+        "impact": "mid"
+      },
+      {
+        "name": "Transformación",
+        "description": "En ciertas circunstancias, es capaz de cambiar su forma para adaptarse a diferentes situaciones o para mejorar sus habilidades en combate.",
+        "impact": "high"
+      }
+    ],
+    "role": "villain",
+    "race": "demon",
+    "tier": 3,
+    "signatureTechnique": "Múltiples rayos"
+  },
+  {
+    "id": "cymbal-dragon-ball",
+    "name": "Cymbal",
+    "saga": "dragon-ball",
+    "description": "El monstruo Symbal es conocido por su destreza en combate, su f(n) principal es ejecutar tareas fundamentales del rey piccolo cómo el asesinato de Krillin. El punto débil es la dependencia absoluta a Piccolo, su lealtad ciega a Piccolo lo vuelve vulnerable a estrategias que la exploten. Además Cymbal tiene una resistencia límitada a ataques que combina fuerza y técnica. Este tiene una desventaja, pues no es capaz de hacerle frente a los personajes más podereos de Dragon Ball. Su aparición es importante, pues da una apertura a la amenza del namek intensificando el enfrentamiento y la tensión de la narrativa.",
+    "image": "dragon.ball/Img11.Zimbal.jpg",
+    "role": "villain",
+    "race": "demon",
+    "tier": 3
+  },
+  {
+    "id": "mai-dragon-ball",
+    "name": "Mai",
+    "saga": "dragon-ball",
+    "description": "May es un personaje destacado por su habilidad de espionaje y su rol como asistente principal de la banda de Pillaf. Aunque no se destaca por su fuerza fisíca, su ingenio y su destreza en tareas encubiertas son fundamentales para las operaciones del malvado Pillaf. Su trabajo implica recolectar información valiosa y ejecutar misiónes que requieren sutileza y discreción. May posee una buena habilidad para infiltrarse y manipular situaciones en especial intrigas y conflictos que surgen en la saga.",
+    "image": "dragon.ball/Img.assitence-may.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 1
+  },
+  {
+    "id": "lunch-dragon-ball",
+    "name": "Lunch",
+    "saga": "dragon-ball",
+    "description": "Lunch es una figura misteriosa conocida por su personalidad dual, que cambia drasticamente; entre dos estados de ánimo: De una mujer dulce, amable a otra agresiva y temible. Su habilidad para cambiar entre dos personalidades la convierte en un personaje impredecible y versátil. Aunque no es una peleadora mutante. Su capacidad para cambiar de carácter tiene un impacto en su desarrollo; creando situaciones en calidad de tragicomedia(comico-conflictivas) Lunch es un elemento valioso en él grupo de guerreros, ya que es un aliado valioso en situaciónes de peligro. Aportando su valía única al grupo. Punto débil: Es la falta de control de su transformación de personalidad. Nivel de Poder: En comparación a nuestros demás guerreros tiene un nivel de pelea demasiado bajo. Aunque, su habilidad para el manejo de armas y su fuerza en su estado agresivo, les permiten enfrentar adaversarios menores y así compensar su ausencia de poder.",
+    "image": "dragon.ball/Img-Lunch.jpg",
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  {
+    "id": "coronel-silver-dragon-ball",
+    "name": "Coronel Silver",
+    "saga": "dragon-ball",
+    "description": "El coronel silver es un villano muy importante en la historia, es conocido por su habilidad para realizar planes complicados y su estrategia en las batallas. Su talento para organizar ataques inteligentes y manipular a sus enemigos lo convierte en un oponente muy peligroso. En combate, es un rivel de alto nivel, con gran destreza y habilidades tácticas que le permiten superar a la mayoría de sus adversarios. Sin embargo, su punto débil es su arrogancia; tiende a subestimar a sus enemigos y confiar demasiado en sus planes, lo qué puede llevarlo a cometer errores. Su papel en la trama es crucial, ya que presenta grandes desafíos para nuestros héroes y revela debilidades que deben superar. El coronel Silver es una amenaza constante qué prueba tanto la fuerza como la astucia de nuestro protagonistas.",
+    "image": "dragon.ball/Img-Coronel.Silver.jpg",
+    "role": "villain",
+    "race": "human",
+    "tier": 1,
+    "faction": "red-ribbon"
+  },
+  {
+    "id": "androide-8-dragon-ball",
+    "name": "Androide 8",
+    "saga": "dragon-ball",
+    "description": "El Androide número 8, fue creado por Guero, el cientifíco más importante de la red ribbon. A diferencia de los androides de la patrulla roja, el androide # 8 posee un corazón amable y no comparte inclinaciones maquiavelicas como sus demás compañeros de la armada robótica. Durante la patrulla roja, se busca como un personaje qué busca rendición y ayudar a los amigos de goku, principalmente a son-goku y sus amigos. El Androide 8, a pesar de que su objetivo de creación fue de planes nefastos. El androide 8 tiene una personalidad cálida y amistosa. Por está razón, consolidará una relación amistosa entre Goku.",
+    "image": "dragon.ball/Img22-.Octavio-nu8.jpg",
+    "techniques": [
+      {
+        "name": "Resistencia sobrehumana",
+        "description": "El androide 8, tiene una resistencia superior a la del ser humano promedio. su fuerza le permite realizar hazañas como levantar grandes objetos y enfrentarse a enemigos poderosos.",
+        "impact": "high"
+      },
+      {
+        "name": "resistencia mejorada",
+        "description": "Es capaz de soportar daños graves, sin estar afectado lo que le permite seguir peleando, incluso despues de recibir ataques fuertes.",
+        "impact": "high"
+      },
+      {
+        "name": "autoregeneración",
+        "description": "Aunque no es una habilidad de regeneración como la de los otros personajes, el androide número 8, puede reparar daños menores en su estructura a través de su diseño mecánico avanzado.",
+        "impact": "high"
+      }
+    ],
+    "role": "hero",
+    "race": "android",
+    "tier": 2,
+    "faction": "red-ribbon",
+    "signatureTechnique": "Resistencia sobrehumana"
+  },
+  {
+    "id": "giran-dragon-ball",
+    "name": "Giran",
+    "saga": "dragon-ball",
+    "description": "Giran es un reptil-monstruo, que es conocido por su increíble fuerza fisíca y su imponente presencia, lo que lo convierte en una amenza directa para los guerreros Kame-House,Giran embate sismícodestaca por su capacidad para realizar destrucción masiva y su resistencia exponencial, que le permite resistri ataques que derribarían a otros enemigos. Además, de su inteligencia y habilidades de combate lo hacen aún más peligroso ya que no sólo se basa en la fuerza bruta, sino también en táctivas efectivas durante sus enfrentamientos. La única vulnerabilidad radica en su orgullo y su inclinación en subestimar a sus oponentes, lo que a veces lo lleva en cometer errores estratégicos. Sin duda alguna, giran es una amenaza constante que eleva el nivel de desafío en la narrativa.",
+    "image": "dragon.ball/Img10.Giran.jpg",
+    "techniques": [
+      {
+        "name": "golpe devastador",
+        "description": "Este utiliza una fuerza bruta para lanzar ataques de impacto, capaces de destruir estructuras y causar graves daños a sus enemigos.",
+        "impact": "high"
+      },
+      {
+        "name": "rugído atronador",
+        "description": "Es una técnica que giran utiliza para causar traves de un golpe puede causar grandes estragos en el campo de batalla efectuando una técnica temida por sus oponentes debido a su capacidad destructiva.",
+        "impact": "mid"
+      },
+      {
+        "name": "embate sismíco",
+        "description": "Gracias a la capacidad para crear temblores o vibraciones que afectan el terreno y el entorno alrededor de él. aunque es poco frecuente el ataque puede desestabilizar a sus oponentes en el campo de batalla. Su objetivo es desorientar y desequilibrar aprovechando el terreno para ganar ventaja en el combate.",
+        "impact": "high"
+      }
+    ],
+    "role": "villain",
+    "race": "monster",
+    "tier": 2,
+    "signatureTechnique": "golpe devastador"
+  }
+]

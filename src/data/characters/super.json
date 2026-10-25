@@ -1,0 +1,549 @@
+[
+  {
+    "id": "caulifla-super",
+    "name": "Caulifla",
+    "saga": "super",
+    "description": "Cauifla es un guerrero Saiyajin destacada por su audaz personalidad y su increíble talento en las artes marciales.a pesar de su juventud, su poder es impresionante y ha demostrado ser una líder natural entre sugente.Cauifla es conocida por su determinación y su deseso de superar constantemente sus límites, inspirando a otrosguerreros aluchar lado a lado. su habilidad para tranformar y dominar nuevas técnicas, como super el super saiyajin, hasido crucialcomo luchadora.",
+    "image": "dragon.ball-super/Im13-Cauifla.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 3
+  },
+  {
+    "id": "kale-super",
+    "name": "Kale",
+    "saga": "super",
+    "description": "Caile es un sayajin del universo gemelo de la tierra, conocido por su energía vibrante y su enfoque audaz hacia la batalla. a menudo se le ve riendo y disfrutando de la adrenalina de los combates, lo que la convierte en un personaje carismático y emocionnante. Sin embargo, detrás de su exterior exuberante, caile es un guerrero increiblemente potente que toma su papel muy en serio, luchando para proteger al universo con una feroz determinación. a lo larog de super, ha demostrado su deseo de enfrentarse a oponente fuertes,siempre en busca de desafíos que lo mantenga al límite. su relación con pridepoppers especialmente con con toppo, revela el compromiso con la justicia, aunque su estilo apasionado y directo pueda diferir notablemente con otros guereros saiyajin.",
+    "image": "dragon.ball-super/Im14-Kaile.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 3
+  },
+  {
+    "id": "cabba-super",
+    "name": "Cabba",
+    "saga": "super",
+    "description": "Kabba es un guerrero del universo 6 conocido por su nobleza y espiritu de lucha. a pesar de su juventud, ha demostrado ser un combatiente excepcional, capaz de susperar sus límites cuando se enfrenta adversarios. Kaba se ha convertido en un mentor para Cauifla y otros luchadores. Impulsandolos a alcanzar nuevas alturas. su transformación en super saijajin representa su crecimiento y dedicación, mostrando que incluso los saiyajis más jóvenes pueden alcanzar grandes logros.",
+    "image": "dragon.ball-super/Im12-Kyabe.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 2
+  },
+  {
+    "id": "hit-super",
+    "name": "Hit",
+    "saga": "super",
+    "description": "Hit es un asesino legendario del universo 6, reconocido por su extraordinaria habilidad en combate, su técnica de salto temporal le permite moverse a velocidades sorprendentes, haciendolo un rival incombatible. Ha pesar de su naturaleza fría y calculadora Hit ha demostrado tener un código de honor y ha evolucionado en su comprención del comabate. Su enfrentamiento con goku ha sido fundamental para su desarrollo, llevándolo a nuevos límites de poder y estrategia.",
+    "image": "dragon.ball-super/Im15-Hit.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 4
+  },
+  {
+    "id": "toppo-super",
+    "name": "Toppo",
+    "saga": "super",
+    "description": "Toppo es un guerrero poderoso del universo 11, conocido por su fuerte sentido de justicia y liderazgo. Como miembro de los Pride Troopers, Toppo busca proteger el universo, pero también anhela la lucha y la superación personal. Su transformación en dios de la destucción le otorga un poder inmenso, simbolizando su dedicación y sacrificio. A lo largo de la serie, Toppo ha influido en otros luchadores, motivándolos a luchar por sus ideales mientras enfrenta desafíos titánicos en el campo de batalla.",
+    "image": "dragon.ball-super/Im16-toppo.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 4
+  },
+  {
+    "id": "gran-sacerdote-super",
+    "name": "Gran Sacerdote",
+    "saga": "super",
+    "description": "Él gran sacerdote es una figura central del universo de dragón ball, conocido por su inmenso poder y su papel como líder de los ángeles. Su sabiduría y naturalidad lo convierten en un observador y guía de los dioses de la destrucción y los universos. a pesar de su apariencia serena y su comportamiento amable, el gran sacerdote es un combatiente fuerte, capaz de rivalizar con los guerreros más poderosos. su influencia es crucial en el equilibrio del multiverso, y sus enseñanzas han sido fundamentales para el desarrollo de varios personajes. su presencia y poder subrayan la importancia del orden y la justicia en la lucha entre universos.",
+    "image": "dragon.ball-super/Im19-Priest.sacerdot.jpg",
+    "role": "support",
+    "race": "angel",
+    "tier": 5
+  },
+  {
+    "id": "whis-super",
+    "name": "Whis",
+    "saga": "super",
+    "description": "Whis es un ángel y asistente del Dios de la destrucción, beerus, reconocido por su sabiduría, calma y habilidades excepcionales en combate. Su orígen se remonta a otra dimensión, donde los ángeles fungen para mantener el equilibrio universal. Whis se destaca por un increible nivel de poder, que le posiciona como uno de los seres más fuertes del universo, uncluso superior a muchos guerreros como Goku y Vegeta.",
+    "image": "dragon.ball-super/Im18-Whis.jpg",
+    "techniques": [
+      {
+        "name": "Téc. de regreso en él tiempo",
+        "description": "Es la técnica que permite revertir el tiempo en corta duración, lo que puede salvar a otros o evitar un ataque."
+      },
+      {
+        "name": "transmición instantánea",
+        "description": "Es una técnica que permite teletransportase instantáneamente a cualquier lugar."
+      },
+      {
+        "name": "Bailar de los ángeles",
+        "description": "Es un estilo de combate que combina ataques rápidos y evasiones; muy efectio en combate."
+      }
+    ],
+    "role": "support",
+    "race": "angel",
+    "tier": 5,
+    "signatureTechnique": "Téc. de regreso en él tiempo"
+  },
+  {
+    "id": "bills-super",
+    "name": "Bills",
+    "saga": "super",
+    "description": "Bills es el dios de la destrucción del universo 7, es una figura temida y respetada por su inmenso poder y carácter impredecible. aunque a menudo muestra una actitud relajada y despreocupada, su habilidad para usar el hakai, que puede desintegrar cualquier objeto en un instante, lo convierte en uno de los seres más poderosos del multiverso. bills es conocido por su gran apetito y curiosidad y su curiosidad por las cosas terrenales, pero cuando se enfurece, su podere destructivo es inigualable. en comparación con otros dioses de la destrucción, bills se destaca por su feroz instinto en combate y su capacidad para adaptarse rápidamente a las situaciones más peligrosas. a lo largo de la serie, ha demostrado no solo ser un dios temido por la fuerza, sino tambien respetado por su astucia y su capacadidad para manejar situaciones delicadas.",
+    "image": "dragon.ball-super/Img22-gran.bills.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 5
+  },
+  {
+    "id": "vados-super",
+    "name": "Vados",
+    "saga": "super",
+    "description": "Vadoss es una figura del universo 11, reconocida por su sabiduría y su papel como asistente de dios de la destrucción. su inteligencia y poder son sobresalientes, y su sentido fuerte de responsabilidad ayuda a guiar y a entrenar guerreros bajo su tutela. Vados destaca por su agilidad y habilidades en combate, lo que la coniverte en una formidable guerrera. a lo largo de la serie, vaddos ha influido profundamente en otros personajes, enseñándolos la importancia de la estragia y disciplina. su prescensia inspira a luchadores a superar sus propios límites, mientras enfrenta sus reflejos que ponen a prueba su poder como su intelecto.",
+    "image": "dragon.ball-super/Im20-Vados.jpg",
+    "role": "support",
+    "race": "angel",
+    "tier": 5
+  },
+  {
+    "id": "belmod-super",
+    "name": "Belmod",
+    "saga": "super",
+    "description": "Belmod, es el dios de la destrucción del universo 11, es una figura imponente y respetada entre los dioses. reconocido no solo por su poder destructivo, sino támbien por su carácter sereno y calculador, belmod gobierna su sabiduría que lo diferencia de los otros dioses. a pesar de su apariencia tranquila, su capacidad para eliminar amenazas es abrumadora, y se destaca por usar su poder especial llamado hakai, capaz de desintegrar cualquier cosa con solo un pensamiento, demostrando su dominio absoluto sobre la destrucción. a lo largo de super, belmod ha mantenido una posición de respeto frente a los otros dioses de la destrucción; debido a su capacidad estratégica y su habilidad para delegar en equipo, las tropas del orgullo quienes protegen al universo 11.",
+    "image": "dragon.ball-super/Im23-Belmod.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  {
+    "id": "champa-super",
+    "name": "Champa",
+    "saga": "super",
+    "description": "Champa es un dios de la destrucción del universo 6, conocido por su personalidad arrogante e insaciable deseo de competencia. a menudo se muestra despreocupado y despreciativo, pero su amor por la lucha lo lleba a buscar oponentes dignos, especialmente el de su hermano beruus. a pesar de su apariecia cómica champa posee un poder desvastador que lo convierte en una fuerza temible en combate. a lo largo de super, champa es un recordatorio de que el orgullo y la rivalidad pueden impulsar tanto el crecimiento personal como la destrucción, mientras navega por la delgada línea entre la diversión y el desafío en la busqueda de la gloria.",
+    "image": "dragon.ball-super/Im21-Champa.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  {
+    "id": "dyspo-super",
+    "name": "Dyspo",
+    "saga": "super",
+    "description": "Dyspo es un guerrero veloz del universo-11 y miembro de las tropas del orgullom destaca en el torneo del poder por su íncreible velocidad, comparable e incluso superior a la de los Saiyajin en muchas situaciones. como uno de los guerreros más rápidos de todo él multiverso, dyspo confía en su agilidad para abrumar a sus oponentes antes de que estos puedan reaccionar. su orgígen está vínculado al equipo de élite que protege la justicia en su universo, y, como parte de las tropas del orgullo, lucha con un fuerte sentido del deber y la justicia, lo que lo convierte en un aliado invaluable para jiren y toppo durante el torneo. Dyspo utiliza su mejor técnica llamada 'Modo super máxima velocidad', que le permite moverse y atacar a velocidades extremas, superando las percepciones de la mayoría de los combatientes. Sin embargo, su enfoque en la velocidad tiene como punto débil: su control y precisión disminuyen cuando alcanza máximas velocidades, esto lo deja muy vulnerable, pues es posible predecir los movimientos.",
+    "image": "dragon.ball-super/Im20-Dispo.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 3
+  },
+  {
+    "id": "jiren-super",
+    "name": "Jiren",
+    "saga": "super",
+    "description": "Jiren es un guerreo del universo 11, conocido por su imponente fuerza y su enfoque hacia la batalla. a menudo se le ve con un expresión estoica y una determinación inquebrantable, lo que lo convierte en un personaje formidable y respetado. sin embargo, detrás de su exterior reservado, jiren es un luchador excepcional que ha dedicado su vida a proteger a su universo y a sus seres queridos, lo que le otorga una profunda motivación. a lo largo de super ha manifestado su deseso de enfrentarse a los adversarios más fuertes, buscando siempre superar sus propios límites. su relación con pridtoppers, especialmente con toppo, revela un compromiso con la justicia y el orden y su enfoque directo y a veces solitario constrasta con la naturaleza más lúdica de otros guerreros.",
+    "image": "dragon.ball-super/Im15-Jiren.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 5
+  },
+  {
+    "id": "sidra-super",
+    "name": "Sidra",
+    "saga": "super",
+    "description": "Sidra es un dios de la destrucción del universo 9, conocido por su naturaleza calmada y su enfoque estrategico hacia la aniquilación. a menudo se le ve meditando o sonriendo con tranquilidad, lo que contransta con la devastación que es capaz de causar, convirtiéndolo en un personaje enigmático y fascianante. sin embargo, detrás de su apariencia serena, sidra es un guerrero extremadamente formidable que toma su papel con seriedad, asegurando la estabilidad del universo con una firme determinación.",
+    "image": "dragon.ball-super/Im24-Sidra.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  {
+    "id": "marcarita-super",
+    "name": "Marcarita",
+    "saga": "super",
+    "description": "Marcarita es el asistente del dios de la destrucción belmond, del universo 11. su personalidad es serena y sabia, y a menudo actúa como la voz de la razón, equilibrando la naturaleza juguetona y despreocupada de belmod. a pesar de su apariencia tranquila, macarita es una guerrera poderosa y hábil, capaz de enfrentar desafíos con gran agilidad y destreza en combate.",
+    "image": "dragon.ball-super/Im25-Marcarita.jpg",
+    "role": "support",
+    "race": "angel",
+    "tier": 4
+  },
+  {
+    "id": "frost-super",
+    "name": "Frost",
+    "saga": "super",
+    "description": "Frost es un guerrero del universo astuto del universo 6, conocido por su naturaleza engañosa y su ambición desmedida. aunque es un guerrero poderoso su inclinación a utilizar trucos y estrategias sucias lo distingue de otros guerreros. como miembro de la raza de los demonios frost, frost busca demostrar su valía y superar a sus rivales, pero su falta de principios morales a menudo lo lleva a conflictos.El deseo de Frost de alcanzar niveles de alcanzar la grandeza lo impulsa a desafiar a guerreros más fuertes, enfrentándose a obstáculos titánicos intenta demostrar qué, a pesar de sus métodos, puede ser un adversario dificíl de vencer.",
+    "image": "dragon.ball-super/Im17-frost.jpg",
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 3
+  },
+  {
+    "id": "dercori-super",
+    "name": "Dercori",
+    "saga": "super",
+    "description": "Dercori, es una luchadora del universo 4, es conocida por su habilidad para manipular en la obscuridad en combate, usando ataques basados en ilusiones y sombras. proveniente de una raza experta en técnicas de engaño y ocultamiento, dercori es capaz de distorcionar el campo de batalla, haciendo que sus oponente pierdan de vista la realidad. su estilo de lucha se basa en la confusión, atacando desde las sombras y utilizando su entorno para obtener ventajas. sin embargo su debelidad es que depende de ambientes obscuros o confusos para ser efectiva.",
+    "image": "dragon.ball-super/img01-Dercori.png",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  {
+    "id": "yamcha-super",
+    "name": "Yamcha",
+    "saga": "super",
+    "description": "Yamcha es un guerrero valiente y un experto en artes marciales, conocido por su espíritu indomable. A lo largo de la serie, ha enfrentado adversidades y ha tenido que lidiar con su propia evolución como luchador. Aunque a menudo se le considera un personaje cómico, su valentía y determinación son innegables. Su historia, marcada por sus derrotas y triunfos, lo ha llevado a convertirse en un aliado valioso de los Z Fighters, siempre dispuesto a luchar por sus amigos y por la paz en el mundo. Yamcha es un maestro en combate cuerpo a cuerpo, con técnicas como el Wolf Fang Fist y la Spirit Ball que lo hacen un oponente temible en la batalla. A pesar de las críticas que ha recibido por su rendimiento en combates cruciales, nunca deja de esforzarse por mejorar y superarse a sí mismo. <",
+    "image": "dragon.ball-super/Im32-yamcha.jpg",
+    "role": "hero",
+    "race": "human",
+    "tier": 1
+  },
+  {
+    "id": "botamo-super",
+    "name": "Botamo",
+    "saga": "super",
+    "description": "Botamo es un luchador robusto del universo 6, conocido por su íncreible resistencia y su peculiar habilidad para absorber golpes. A pesar de su apariencia poco convencional, su poder de combate es significativo, lo que le convierte en un oponente temido. botamo se destaca en el torneo de poder, mostrando que la fuerza no siempre proviene de la agilidad, sino también de la resistencia y la determinación. su papel en la serie resalta la diversidad dentro de los guerreros y su capacidad para adaptarse a diferentes estilos de lucha.",
+    "image": "dragon.ball-super/Im16-Botamo.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  {
+    "id": "trunks-del-futuro-super",
+    "name": "Trunks del futuro",
+    "saga": "super",
+    "description": "Trunks del futuro, es un guerrero valiente y decidido, proveniente de un futuro devastado por los androides y los villanos. Desde joven, ha enfrentado adversidades que lo han forjado en un combatiente excepcional. Su entrenamiento riguroso con Goku y Vegeta le ha otorgado un gran nivel de poder, permitiéndole enfrentarse a amenazas que otros no podrían. Este, es conocido por su carácter serio y su profunda lealtad hacia sus amigos y familia. A pesar de la tristeza que siente por la pérdida de su mundo, siempre lucha por un futuro mejor. Su transformación en Super Saiyan Rage, que desata un poder inigualable. Es un fiel testimonio de determinación y coraje.",
+    "image": "dragon.ball-super/Im4-Trunks.jpg",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 4
+  },
+  {
+    "id": "maestro-roshi-super",
+    "name": "Maestro Roshi",
+    "saga": "super",
+    "description": "Mutten-Roshi, es conocido como el Maestro Roshi, es un anciano experto en artes marciales y un mentor para varios guerreros.Auque su apariencia es la de un guerrero frágil, su poder es sorprendentemente alto. Conocido pos su sabiuduría, su sentido del humor, y su carácter excéntrico, Roshi ha influido en la vida de muchos guerreros a lo largo de su vida. su técnica más famosa, el kamehameha, se ha convertido en un símbolo de la serie, y su enseñanza a goky y krillin ha sido fundamental para sus desarrollos como luchadores. A pesar de su avanzada edadm Mutten-Roshi sigue siendo un combatiente formidable, capaz de utilizar su experiencia en artes marciales de maneras ingeniosas. Su técnica de rejuvenecimiento le permite volver a un estado más joven y poderoso, recordando a todos que no pueden subestimar a un anciano. Su personalidad divertida y sus momentos cómicos contrastan con su inmensa sabiduría y habilidades en combate.",
+    "image": "dragon.ball-super/Im5-Roshi.pg.jpg",
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  {
+    "id": "piccolo-super",
+    "name": "Piccolo",
+    "saga": "super",
+    "description": "Piccolo es el guerrero namekiano del universo 7, es uno de los guerreros más inteligentes y estratégicos en el torneo del poder. con un vasto conocmiento de técnicas de combate y una gran capacidad de regeneraión, piccolo juega un papel crucial como mentor y aliado de gohan durante el torneo. su orígen como antiguo rival de goku y su posterior evolución hacia un protector de la tierra lo convierten en un personaje profundo y respetado. aunque piccolo no tiene el mismo nivel de poder bruto de los saiyajin, este lo compensa con su inteligencia, capacidad para análisis de combate, y su habilidad para estirar y regenerar partes de su cuerpo. su mayor debilidad es su resistencia comparada con otros luchadores de mayor nivel, lo que lo obliga a depender más de la estrategia qué de la fuerza fisíca directa para sobrevivir en las batallas más intensas.",
+    "image": "dragon.ball-super/Img09-Picolo.jpg",
+    "role": "hero",
+    "race": "namekian",
+    "tier": 3
+  },
+  {
+    "id": "androide-18-super",
+    "name": "Androide 18",
+    "saga": "super",
+    "description": "La androide núm. 18 es una guerrera formidable creada por el Dr. Gero, que ha logrado superar su programación original para convertirse en un ser autónomo y valiente. Su habilidad en combate es excepcional, destacándose por su agilidad, velocidad y fuerza bruta. A lo largo de su historia, ha demostrado ser una combatiente letal, enfrentándose a poderosos adversarios con confianza y determinación. Ha sido una aliada inquebrantable en la lucha contra el mal. Su técnica del Golpe de energía y su habilidad para evadir ataques la hacen una oponente peligrosa en cualquier batalla. Además, de su carácter fuerte y sarcástico aportan un sentido de pertenencia entre el grupo de guerreros salvadores en nuestro universo.",
+    "image": "dragon.ball-super/Im8-And.18.jpg",
+    "role": "hero",
+    "race": "cyborg",
+    "tier": 3
+  },
+  {
+    "id": "androide-17-super",
+    "name": "Androide 17",
+    "saga": "super",
+    "description": "El androide del universo 7, es conocido por su astucia y habilidades estratégicas en el combate. a menudo se le ve con una actitud tranquila y segura, lo que lo convierte en un personaje intrigante y enigmático. sin embargo, detrás de su exterior relajado, 17 es un luchador formidable dedicando su vida a proteger a su familia y al mundo, lo que le otorga una fuerte motivación. A lo largo de la saga super, ha demostrado su deseo de enfrentarse a los oponentes más desafiantes, siempre buscando nuevas formas de superarse. su relacion con los pride-toppers, especialmente durante el torneo del poder, refleja su compromiso con la justicia, aunque su enfoque a menudo se basa en la estrategia más que en la fuerza bruta. 17 es el claro ejemplo de resilencia y adaptación, mostrando que la inteligencia y la técnica pueden ser tan poderorosas como la fuerza fisíca y el combate.",
+    "image": "dragon.ball-super/Im7-And.17.jpg",
+    "role": "hero",
+    "race": "cyborg",
+    "tier": 4
+  },
+  {
+    "id": "ten-shin-han-super",
+    "name": "Ten Shin Han",
+    "saga": "super",
+    "description": "Ten-shenn-han es uno de los personajes más icónicos del universo de dragón ball, conocido por su dedicación y disciplina en las artes marciales. a lo largo de dragón ball demuestra un notable crecimiento como guerrero, combinando su técnica precisa y su estrategia en combate. aunque es un luchador formidable, su mayor desafío es su naturaleza introspectiva y su lucha interna con la soledad y la búsqueda de próposito. a pesar de estos conflíctos, su lealtad a sus amigos y su compromiso con la justicia destacan, haciendo de él un personaje profundamente admirable y respetado en la serie. su capacidad para superar sus inseguirdades y seguir en batallas difíciles refleja su verdadero espíritu como guerrero. además, de su relación con otros personajes, como krillin y goku, resalta su evolución y la importancia de la camaradería.",
+    "image": "dragon.ball-super/Im11-Ten-Sheen.Han.jpg",
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  {
+    "id": "freezer-super",
+    "name": "Freezer",
+    "saga": "super",
+    "description": "Golden Frieza, es conocido en su estado dorado y su poder abrumador, es un enemigo formidable el universo de dragón Ball. A pesar de su apariencia elegante, su fuerza es impresionante y su ambición lo convierten en un adversario temido. Con un intelecto agudo y habilidades de combate excepcionales, Frieza ha dejado una marca indeleble al principio de la saga. Su transformación en estado Golden Frieza simboliza un deseo de superación y dominación. Al lo largo de su historia, ha sido una influencia decisiva en la vida de varios guerreros, desafíandolos a alcanzar nuevas alturas. Aunque su naturaleza es despiadada, su evolución como personaje lo convierte en un rival complejo y fascinante.",
+    "image": "dragon.ball-super/Im10-Frezeer.jpg",
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 4,
+    "transformations": [
+      "Golden Freezer"
+    ]
+  },
+  {
+    "id": "goku-super",
+    "name": "Goku",
+    "saga": "super",
+    "description": "Goku, en su forma supersayajin blue, es un guerrero del univeros 7 conocido por su espíritu indomable y su insasiable sed de de desafíos. a menudo se le ve con una sonrisa confiada y una energía contagiosa, lo que le convierte en un personaje carismático y motivador, sin embargo detrás de una actitud despreocupada se esconde un luchador extraordinariamente poderoso que toma su papel como protector de la tierra muy en serio. a lo largo de super, ha manifestado su deseo de enfrentarse a los oponentes más fuertes, siempre superandose y alcanzando nuevas cotas de poder. su relación con los pride-toppers, especialmente durante el torneo del poder, resalta su compromiso y justicia y la camaradería, aunque su enfoque a menudo es impulsivo y lleno de entusiasmo. Goku SSJBlue representa la combinación perefecta de fuerza y determinación.",
+    "image": "dragon.ball-super/im02-goku.spr.jpg",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "transformations": [
+      "Super Saiyajin Blue"
+    ]
+  },
+  {
+    "id": "gohan-super",
+    "name": "Gohan",
+    "saga": "super",
+    "description": "Gohan es él hijo mayor de Goku, ingresa como guerrero clave en el torneo del poder del univeso 7, gohan había alcanzado el SSJ2 en su juventud, pero actualmente el estado mistico con el entrenamiento supremo. En el torneo del poder gohan lucha de manera estratégica, confiando no solo en su poder sino también en su inteligencia y su capacidad de liderazgo. durante las batallas, suele evitar el uso de transformaciones drásticas como el SSJ, preferiendo usar su forma definitiva(mistico). esta forma le otorga un poder impresionante sin el gasto excesivo de energía, lo que le permite mantenerse peleando de manera eficiente. sin embargo, su fortaleza no reside no solo en él poder fisíco, sino en su habilidad para coordinar ataques en equipo, especialmente cuando lidera tácticas junto a piccolo o Freezer. Aunque no llega ser el guerrero más fuerte del torneo, su inteligencia y determinación lo convierten en un guerrero principal.",
+    "image": "dragon.ball-super/im04-son.gohan.jpg",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 4
+  },
+  {
+    "id": "vegeta-super",
+    "name": "Vegeta",
+    "saga": "super",
+    "description": "Vegeta,en su forma SSJ-blue, es un guerrero del universo 7 conocido por su orgullo inquebrantable y su intensa dedicación al combate. a menudo se le ve con una expresion seria y una determinación feroz, lo que le convierte en un personaje imponente y respetado. Sin embargo, detrpas de su exterior arrogante, vegeta es un luchador excepsionalmente poderoso que toma muy ens serio sy papel como protector de su familia y su planeta. a lo largo de super, ha demostrado su deseo de superarse constantemente, buscando siempre superar a goku y enfrentarse a los adversarios más desafiante. aunque su enfoque a menudo es más agresivo y directo que el resto de los otros guerreros. vegeta encarna la lucha por la rendición y el crecimiento personal, mostrando que el verdadero poder proviene no solo de la fuerza, sino también del deseo de proreger lo que ama.",
+    "image": "dragon.ball-super/Im3-Vegueta.jpg",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "transformations": [
+      "Super Saiyajin Blue"
+    ]
+  },
+  {
+    "id": "krilin-super",
+    "name": "Krilin",
+    "saga": "super",
+    "description": "Krillin es un de los personajes más entrañables del universo de dragón ball. reconocido por su valentía y lealtad, ha sido un amigo constante de goku y un valioso aliado en numerosas batallas. a lo largo de dragón ball super, krillin muestra su crecimiento como guerrero, combinando su experiencia en combate con su ingenio para enfrentar a sus enemigos. a pesar de su fuerza y habilidades como luchador, su principal debilidad radica en su inseguridad. a menudo duda de si mismo y se siente inferior frente a oponentes más fuertes, lo que pude afectar su desempeño en combate. sin embargo, su determinación por proteger a sus seres queridos y su valentía a pesar del miedo lo convierten en un personaje admirable.",
+    "image": "dragon.ball-super/super.img.1.jpg",
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  {
+    "id": "goku-black-super",
+    "name": "Goku Black",
+    "saga": "super",
+    "description": "Goku.black, en su forma ssj-rose, es un guerrero conocido por su imponente presencia y su enfoque oscuro hacia la batalla. a menudo se le ve con una sonrisa enigmática y una actitud arrogante, lo que lo connvierte en un personaje fascinante y temido. sin embargo, detrás de su exterior carismático, black es un luchador íncreiblemente poderoso que persigue su objetivo de obtener la perfección a través de la destrucción.Goku Black siempre ha buscado constantemente expandir sus límites para y demostrar su superioridad.Por lo qué, su relación con Zamasu resalta el compromiso con su visisión de la justicia, aunque su enfoque es despiadado y radical.La transformación de black rose representa la forma de poder y ambición, mostrando que la verdadera fuerza puede derivar de la fuerza obscura y de la sed de trascendencia a cualquier costo.",
+    "image": "dragon.ball-super/super.2.black-4.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 4,
+    "transformations": [
+      "Super Saiyajin Rosé"
+    ]
+  },
+  {
+    "id": "zamasu-super",
+    "name": "Zamasu",
+    "saga": "super",
+    "description": "Zamasu es un guerrero del universo 10, conocido por su fervienete ideología y su enfoque radical hacia la justicia. a menudo se le ve con una mirada fría y con una convicción inquebrantable, lo que lo convierte en un personaje intimidante y filosófico. sin embargo, detrás de su exterior autoritario, zamasu es un ser extremadamente poderoso que cree firmemente en la necesidad de eliminar a los mortales para alcanzar un mundo perfecto. a lo largo de super, ha demostrado su deseo de llevar a cabo su visión de justicia, buscando alianzas quefortalezcan su causa, como su fusión con black. su relación con este último reslata el compromisocon su ideología, aunque su enfoque despiadado y extremista lo aleja de los principios de otros guerreros. zamasu representa la complejidad delpoder y la justicia, mostrando que las convicciones pueden llevar a cabo a un camino obscuro y destructivo en la búsqueda de la perfección.",
+    "image": "dragon.ball-super/Im22-Zamas.jpg",
+    "role": "villain",
+    "race": "kaio",
+    "tier": 4
+  },
+  {
+    "id": "zeno-sama-super",
+    "name": "Zeno-sama",
+    "saga": "super",
+    "description": "Normalmente conocido como rey del todo, es el ser supremo del multiverso, caracterizado por su apariencia infantil y su comportamiento bastante despreocupado. a menudo se le ve sonriendo y jugando, lo que le convierte en un personaje sorprendente y a menudo subestimado. sin embargo, detrás de su exterior inocente, Zen'ō posee un inmenso poder que le permite borrar universos enteros gon una sola bola de energía, lo que lo convierte en una figura temida y respetada. a lo largo de super, ha demostrado interes en el entrenamiento y las batallas, organizando torneos para evaluar las fuerzas de los guerreros de los diferentes universos. Mas que nada, su relación con goku resalta su curiosidad de deseso de diversión, aunque su naturaleza impredescible y su falta de empatía puede resultar en desiciones devastadoras.Zen'ō encarna la dualidad de poder absoluto, mostrando que la diversión y la destrucción pueden coexistir en un ser que, aunque parece tierno, tiene la capacidad de decidir el destino de todo el multiverso.",
+    "image": "dragon.ball-super/zenosama.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 5
+  },
+  {
+    "id": "ribrianne-super",
+    "name": "Ribrianne",
+    "saga": "super",
+    "description": "Ribbiane, es conocida como la guerrera del amor, es un personaje destacado en el universo de dragón ball, caracterizada por su apariencia colorida y su fuerte compromiso con la amistad y el amor. a menudo se le ve alegre y entusiasta, lo que le convierte en una figura inspiradora y, en ocasiones, subestimada. sin embargo, detrás de su exterior es optimista, ribrianne posee habilidades de combate notables, que le permiten enfrentarse a poderosos oponentes en los torneos del multiverso. a lo largo de dragón ball, ha demostrado su dedicación con otros guerreros resalta su deseo de conectar emocionalmente, aunque su enfoque a veces puede ser visto como ingenuo. Ribrianne posee encarna la dualidad de la fuerza y la vulnerabilidad, mostrando que la pasión y determinación pueden coexistir en un ser que, aunque parece dulce y sencilla, tiene la capacidad de inspirar grandes cambios de su entorno.",
+    "image": "dragon.ball-super/Im19-ribbiane.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  {
+    "id": "kefla-super",
+    "name": "Kefla",
+    "saga": "super",
+    "description": "Kafla es la fusión de kale y califa, es una guerrera sobresaliente en el multiverso de super reconocida por su energía desbordante y su personalidad atrevida. con un diseño imponente y un enfoque audaz en el combate, kafla combina la fuerza y la agresividad de kale con la determinación y carisma de cauilfa, conviriéndose en una rival temida de cualquier torneo. a lo largo de dragon ball super.kafla se muestra un ferviente deseo de superarse y probar su valía, enfrentándose a oponentes con gran confianza. su relación con otros guerreros destaca por su ambición y su deseo de crecimiento,aunque su impulsividad puede llevarla a desiciones arriegadas. kafla encarna la dualidad de fuerza y amistad, demostrando que la competencia y el compañerismo pueden coexistir en un ser que, aunque feroz en la batalla, busca constantemente la conexión y reconocimiento entre sus pares.",
+    "image": "dragon.ball-super/Im16.5-Kafla.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 4
+  },
+  {
+    "id": "broly-super",
+    "name": "Broly",
+    "saga": "super",
+    "description": "Broly es el saiyajin del universo 7, este cuenta con una fuerza imparable de poder bruto y destrucción cuando alcanza su transformación de super-broly. en esta forma, su fuerza crece de una exponencial, y desmedida inclusive. superando los límites de los saiyajin más poderosos como goku y vegeta. su transformación se caracteriza por su incremento y/o aumento de musculatura, su caracteristíco cabello verde y un aura desbordante que refleja su poder sin control. en este estado, broly se convierte en una verdadera máquina de combate, con una capacidad de adaptación instantánea, haciendolo un oponente temido en él campo de batalla. durante su transformación es feroz y desatada. si bien en su estado normal tranquilo, es reservado e casi inocente, al transformarse en super broly, su irá reprimida y su naturaleza salvaje toman toman el contro, llevándolo a perder todo rastro de racionalidad. su furia se convierte en su principal motor, luchando únicamente por instinto, lo que lo hace aún más peligroso.",
+    "image": "dragon.ball-super/Img30-super.broly.jpg",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 5
+  },
+  {
+    "id": "kettle-super",
+    "name": "Kettle",
+    "saga": "super",
+    "description": "Kettle, un guerrero del universo 6, es un personaje un personaje intrigante en el universo de dragón ball, conocido por su habilidad en combate y carácter ingenioso. con apariencia distintiva y una actitud distintiva y una actitud decidida, kattle se destaca por su estrategia y astucia en la batalla, convirtiéndose en un rival a tener en cuenta en cualquier enfrentamiento. a lo largo de super, keattle demuestra una notable capacidad para adaptarse en diferentes situaciones, siempre buscando la manera de superar a sus oponentes. su relación con otros luchadores pone en manifiesto su lealtad y su deseo de aprender de los demás, aunque su enfoque práctico a veces puede ser frío o distante. keatle encarna la dualidad de la inteligencia y la fuerza, mostrando que la mente y el poder pueden coexistir en un ser que, aunque es serio en el combate, también busca la camadería y el crecimiento personal del multiverso.",
+    "image": "dragon.ball-super/Im17-Kettle.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "paparoni-super",
+    "name": "Paparoni",
+    "saga": "super",
+    "description": "El doctor papparoni, es un intrigante villano del universo 6 en dragón ball, es conocido por su astucia y su afan por el poder. con una apariencia distintiva y un carácter calculador, paparoni se presenta como un cientifíco y estrella brillante, es capaz de manipular a otros para lograr sus objetivos. su habilidad para crear tecnología avanzada y su ingenio lo convierten en una figura respetada. a lo largo de la saga, el dr Paparoni muestra su deseo por dominar a través de la ciencia y la manipulación, siempre buscando la forma de aprovechar las habilidades de los guerreros más fuertes. su relación con otros personajes a menudo se basa en la manipulación y el engaño, lo que refleja su naturaleza egoísta y ambiciosa.",
+    "image": "dragon.ball-super/Im20-Paparoni.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  {
+    "id": "rats-super",
+    "name": "Rats",
+    "saga": "super",
+    "description": "Rats,es el astuto guerrero del universo 6 en dragón ball, es conocido por su agilidad y su enfoque estratégico en el combate. con su apariencia énergica y su personalidad ingeniosa, rats se destaca por su habilidad para adaptarse rápidamente a las circunstancias, lo que le convierte en rival impredesible. alo largo de de Super, rats demuestra un deseo constante de mejorar. utilizando su inteligencia para superar las adversidades. su relación con otros luchadores resalta su espíritu competitivo, aunque a veces su enfoque puede parecer demasiado calculador o deshonesto. rats encarna la dualiadad.",
+    "image": "dragon.ball-super/Im21-Rats.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "iwen-super",
+    "name": "Iwen",
+    "saga": "super",
+    "description": "Iwen es un guerrero astuto del universo 1 en dragón ball. es conocido por su capacidad para manipular la energía a su alrededor y su enfoque creativo en el combate. con su apariencia carismática y su personalidad integrante, iwen se destaca por por su habilidad para anticipar los movimientos de sus oponentes, lo que lo convierte en rival fuerte. Durante el desarrollo de la saga, iwen muestra su deseo constante de explorar nuevas técnicas y formas de combate, utilizando su ingenio para adaptarse a diferentes situaciones. su relación con otros peleadores resalta por su espiritu competitivo, aunque a veces su estilo puede parecer poco ortodoxo o engañoso. iwen combina la dualidad entre la creativida y la estrategia, convirtiendolo en un personaje fascinante dentro el torneo de poderes.",
+    "image": "dragon.ball-super/Im18-iwen.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "kree-super",
+    "name": "Kree",
+    "saga": "super",
+    "description": "Kree es un guerrero del universo 7 en super, conocido por su fuerza bruta y su impresionante resistencia en combate. su personalidad es decidida y valiente, lo que le permite enfrentarse a enemigos poderosos sin dudar. kree se destaca por su habilidad para soportar ataques devastadores y mantenerse de pie, convirtiéndose en un verdadero pilar en la batalla. sin embargo, su principal debilidad radica en su falta de velocidad y agilidad. aunque es formidable en el combate cuerpo a cuerpo, su estilo agresivo a menudo lo deja expuesto a oponentes más rápidos que pueden esquivar sus ataques y contraatacar. esto lo convierte en un rival impredecible, pero también en un guerrero que debe aprender a compensar su vulnerabilidad con tácticas más estratégicas. kree combina la lucha entre fuerza y velocidad, haciendo de su evolución un aspecto interesante en su desarrollo.",
+    "image": "dragon.ball-super/Im26-Kree.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "magetta-super",
+    "name": "Magetta",
+    "saga": "super",
+    "description": "Maggueta es un robot es un miembro de la especie metalman, son seres mecánicos extremadamente resistentes y conocidos por su gran capacidad para soportar ataques fisícos. su orígen está en una raza forjada literalmente de metal, lo que le otorga una defensa casi impenetrable. en cuanto a su nivel de combate ó pelea, maggueta es un oponente formidable gracias a su increible resistencia y su fuerza fisíca, lo que le permite enfrentarse a luchadores de alto nivel sin apenas sufrir daños. su técnica más notable es la lava spit, es un ataque en el que expulsa lava en muy altas temperaturas, desafíando a sus enemigos tanto física como mentalmente. sin embargo, a pesar de su fuerza, maggueta tiene una debilidad significativa: su vulnerabilidad emocional. debido a su naturaleza sensisble, cualquier comentario ofensivo o insulto puede desestabilizarlo mentalmente, llevándolo a perder la concentración y debilitando su rendimiento en combate.",
+    "image": "dragon.ball-super/Im28-Magetta.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  {
+    "id": "mule-super",
+    "name": "Mule",
+    "saga": "super",
+    "description": "Mule es un ser artificial del universo 3, un universo conocido por su avanzada tecnología y uso de androides mecánicos. creado como un androide de combate avanzado, mule cuenta con un intelecto superior y la capacidad de analizar y predicir los movimientos de sus oponentes. su orígen está vinculado en la investigación cientifíca avanzada de su universo, siendo una creación diseñada para la batalla.Si a su nivel de pelea nos referimos, mule es formidable debido a su capacidad para adaptarse rápidamente a cualquier situación, aunque su debilidad radica en su dependencia de su programación. si se logra hackear o desestabilizar sus sistemas, mule puede ser desactivado, lo que lo deja vulnerable en combate.",
+    "image": "dragon.ball-super/Im31-Mule.jpg",
+    "role": "villain",
+    "race": "android",
+    "tier": 1
+  },
+  {
+    "id": "sakaku-super",
+    "name": "Sakaku",
+    "saga": "super",
+    "description": "Sakaku es una guerrera proveniente del universo-4, es un guerrero que destaca por su habilidad para crear ilusiones y confundir a sus enemigos. su orígen se remonta a una especie que se especializa en el uso de técnicas mentales y engaños, lo que le permite manipular las percepciones de quienes lo rodean. en términos de combate, su poder radica en su capacidad para evitar confrotaciones directas, optando por jugar con la mente de sus oponentes y hacerles creer que están en ventaja cuando en realidad están atrapados en una ilusión. sin embargo, su dependencia de sus trucos mentales también es un punto débil, ya que una vez sus ilusiones son descubiertas, sus hab's ofensivas se ven drásticamente reducidas.",
+    "image": "dragon.ball-super/Im29-Saka-ku.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "liqueur-super",
+    "name": "Liqueur",
+    "saga": "super",
+    "description": "Liqueur es el dios de la destrucción del universo 8, tiene un orígen divino y es conocido por su naturaleza salvaje, lo que lo hace extremadamente temido entre los universos. proveninete de una raza de seres humanos de aspecto canino. Liqueur combina su instinto animal con la capacidad destructiva otorgada por su título.su nivel de combate es sobresaliente, siendo uno de los dioses de la destrucción más poderosos. es rápido, ágil y extremadamente agresivo en la batalla, prefiriendo métodos violentos y directos para derrotar a sus enemigos. no obstante, su naturaleza salvaje puede llevarlos a subestimar a sus oponentes o actuar sin pensar, lo que en algunas ocasiones lo deja expuesto a tácticas más elaboradas.",
+    "image": "dragon.ball-super/Im26-Liqueur.jpg",
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  {
+    "id": "monna-super",
+    "name": "Monna",
+    "saga": "super",
+    "description": "Monna es una guerrera del universo-4, conocida por su feroz temperamento y su capacidad para inflar su cuerpo, lo que otorga con gran fuerza física. su orígen se encuentra en una raza alienígena de seres extremadamente robustos, capaces de soportar ataques devastadores sin sufrir mucho daño. en términos de nivel de combate, monna es considerada una guerrera de élite en su universo, capaz de enfrentarse a guerreros de gran calibre. sin embargo, a pesar de su fuerza bruta, su movilidad se ve limitada; cuándo usa su habilidad para inflar su cuerpo, lo que la hace vulnerable a oponentes rápidos y estratégicos. su principal debilidad radica en el exceso de confianza y su límitada agilidad cuando aumenta su tamaño.",
+    "image": "dragon.ball-super/Im30-Monna.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "tagoma-super",
+    "name": "Tagoma",
+    "saga": "super",
+    "description": "Es un guerrero de élite que acompaño a sorbet en su misión para revivir a Freezer. origninalmente un soldado al servicio del imperio galáctico, su orígen es de un combantiente frío y disciplinado, especializado en la estrategia militar. después de la resurreción dre freezer, tagoma estrenó intensamente bajo su mando, lo que lo convirtió en un oponente mucho más fuerte. su mejor técnica es su capacidad para endurecer su cuerpo, aumentndo su resistencia al daño, un resultado de su entrenamiento de freezer. a pesar de su poder es traiccionado por ginyu quién toma su cuerpo.",
+    "image": "dragon.ball-super/ImB-Tagoma.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "sorbet-super",
+    "name": "Sorbet",
+    "saga": "super",
+    "description": "Sorbert, el comandante de los restos del ejército, fue un leal seguidor de freezer. desesperado por restaurar el poder del imperio, buscó las esferas del dragón en la tierra para revivir a su líder. a pesar de que sorbet no es un combatiente formidable, su astucia y líderazgo lo hacen crucial en la trama. su técnica más importante es el uso del anillo de energía, con la cúál dispara rayos de energía controlados para delibitar a sus enemigos, aunque depende principalmente de su inteligencia para sobrevivir.",
+    "image": "dragon.ball-super/ImA-Sorebete.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "shisami-super",
+    "name": "Shisami",
+    "saga": "super",
+    "description": "Es otro de los miembros élite del éjercito de freezer, un soldado robusto que apoya a sorbet y tagoma en su misión. su orígen, al igual que tagoma, es que está en las filas del éjercito, destacando por su fuerza física. aunque no destaca por técnicas sofisticadas, su mejor habilidad es su ataque de embestida, donde utiliza su gran tamaño y fuerza para aplastar a sus enemigos con movimientos directos. sin embargo, pese a su lealtad y poder fisíco, es fácilmente superado por los guerreros z durante la batalla.",
+    "image": "dragon.ball-super/ImC-Sishami.jpg",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  {
+    "id": "goten-super",
+    "name": "Goten",
+    "saga": "super",
+    "description": "Gotten es él hijo menor de goku, es un guerrero muy talentoso desde muy joven, destacándose por alcanzar el SSJ a temprana edad, incluso sin el riguroso entrenamiento qué su hermano Gohan o su padre necesitaron. A pesar de su potencial, goten no tuvo participación directa en él torneo del poder, ya que su inmadurez y su falta de experiencia en batallas de alto nivel lo dejan fuera del equipo del universo 7. sin embargo, durante la saga, gotten continua entrenando con su mejor amigo trunks,y demuestra su gran capacidad para aprender rápidamente y adaptarse, a menudo combatiendo en conjunto con él en su fusión como gotenks, una de sus formas mas poderosas.",
+    "image": "dragon.ball-super/Im33-gotten.jpg",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 2
+  },
+  {
+    "id": "bulma-super",
+    "name": "Bulma",
+    "saga": "super",
+    "description": "A lo largo de los años bulma ha evolucionado significativamente su personaje, pasando de ser una joven aventurera a una líder y madre. en super, su papel como creadora se vuelve aún más importante, desarrollando tecnologías avanzadas como la máquina del tiempo que utiliza trunks del futuro y proporcionando soporte tecnológico en las batallas más peligrosas. además de su fuerte carácter y su capacidad para resolver problemas complejos bajo presión la convierten en una figura clave, no solo en las batallas sino en la vida cotidiana de los héroes. su relación con vegueta y apoyo emocional hacia él, también reflejan su madurez y crecimiento como personaje.",
+    "image": "dragon.ball-super/Im30-Bulma.jpg",
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  {
+    "id": "chi-chi-super",
+    "name": "Chi-Chi",
+    "saga": "super",
+    "description": "En dragon ball super, su carácter se mantiene firme, siempre preocupada por el bienestar de sus hijos, gohan y goten y enfocada en qué gohan se convierta en un experto, aunque este enfoque lo aleja de las batallas. aunque no participa directamente en los combates, su influencia sobre gohan es evidente, ya que lo empuja a alcanzar su potencial tanto en lo académico como en lo personal. a pesar de su personalidad obstinada, milk tamién demuestra ser una madre comprensiva y procterora dispuesta a hacer sacrificios por el bienestar de su familia.",
+    "image": "dragon.ball-super/Im31-milk.jpg",
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  }
+]

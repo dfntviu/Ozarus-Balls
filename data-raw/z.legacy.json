@@ -1,0 +1,77 @@
+[
+  {
+    "nombre": "Raditz",
+    "nombre_original": "raditz",
+    "fusionar_con": "raditz-z-saiyajins",
+    "origen": "villanos",
+    "descripcion": "Es el hermano mayor de Goku, secuestro a su sobrino Gohan. Su poder de combate oscila alrededor de las 3.5K unidadades. Murió debido a la alianza entre Goku y Piccolo Daimaku, quienes le sujetaron la cola y la embestida de Son Gohan en su forma infantil. Al mismo tiempo, Goku se sacrifico para asegurar la victoria en la batalla. aparicíón: episiodio 3° de la saga z Técnica: Ozaru | Semejante al Kamehas | Incremento de Poder",
+    "imagen": "Villanos/Img01-Radix.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Masenko (Rayo de Energía)",
+        "descripcion": "Aunque el Masenko es más asociado con el personaje de Tien Shinhan, Raditz usa una técnica similar. Consiste en concentrar energía en sus manos y lanzarla en forma de un rayo devastador.",
+        "impacto": "Danio Medio"
+      },
+      {
+        "nombre": "Double Sunday",
+        "descripcion": "Esta es una de las técnicas más emblemáticas de Raditz consiste en concentrar su energía en sus manos y lanzarla en forma de un rayo devastador",
+        "impacto": "Daño Medio"
+      },
+      {
+        "nombre": "Kiai (Onda de Energía)",
+        "descripcion": "Raditz también usa un tipo de onda de energía que genera al gritar ó concentrar su energía. Este ataque puede desorientar a sus enemigos y casusarles un daño.",
+        "impacto": "Daño Causado: Medio-Máximo"
+      }
+    ]
+  },
+  {
+    "nombre": "Dr. Gero",
+    "nombre_original": "doctor guero",
+    "fusionar_con": "dr-gero-androide-20-z-cell",
+    "origen": "villanos",
+    "descripcion": "El Dr. Gero es el científico que vive cerca de las montañas. Ha colaborado en la construcción de androides altamente sofisticados con el objetivo de dominar la Tierra, aunque, gracias a Goku, no ha logrado alcanzar su ansiado sueño. Aunque no cuenta con gran poder físico, su mente es extremadamente brillante. Gero se dedicó a la ciencia y a la creación de androides con el objetivo de vengar la caída de la organización y dominar el mundo. Su objetivo principal se centra en la creación de androides poderosos y la búsqueda de la perfección.",
+    "imagen": "Villanos/Dr.Guero.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Autodestrucción",
+        "descripcion": "En caso de que sus creaciones no hayan salido como el queria el incorporo un mecanismo de detonación en las manos de los androide ayudandolos en situaciónes extremas, donde requieran salvar su vida bionica.",
+        "impacto": "Daño Alto Max"
+      },
+      {
+        "nombre": "Manipulación de la energía",
+        "descripcion": "El Dr. Guero puede lanzar rayos de energía desde sus manos, una técnica que utiliza para ataques de corto alcance. aunque no es una técnica principal es útil para situaciónes de combate.",
+        "impacto": "Daño Alto Medio"
+      },
+      {
+        "nombre": "Autonomía Cibernetica",
+        "descripcion": "Es un Cyborg, posee una increíble resistencia y fuerza sobrehumana, junto con la capacida de autoregenerarse. Sus mejoras cibernéticas le permiten adaptarse a diferentes situaciones de combate.",
+        "impacto": "Habilidad de Supervivencia"
+      }
+    ]
+  },
+  {
+    "nombre": "Garlic Jr.",
+    "nombre_original": "Garlic Junior",
+    "arco": "garlic-jr",
+    "origen": "villanos",
+    "descripcion": "Garlic Jr. es un personaje pequeño con apariencia demoníaca.Su padre es el demonio Garlic quien intentó dominar el mundo. Busca vengar la muerte de este y continuar con su legado. Tiene aparición, después de la muerte de Freezer dondé escapa de la zona y aprovecha la oportunidad para vengarse de los amigos de Goku(ya que está muerto).",
+    "imagen": "Villanos/garlic.jr.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Dead Zone",
+        "descripcion": "Es capaz de abrir un vortice dimensional llamado la Zona Muerta, que absorbe todo lo que está cerca de él. Está técnica es extremadamente poderosa y puede capturar a sus enemigosen una dimensión alternativa.",
+        "impacto": "Máximo"
+      },
+      {
+        "nombre": "Makankosappo",
+        "descripcion": "Puede concentrar su energía en sus manos y lanzarla como un potente rayo de energía destrutiva. Muy similar al Kamehameha.",
+        "impacto": "Daño Intermedio"
+      },
+      {
+        "nombre": "Tr Demonio",
+        "descripcion": "Se transforma en una forma más poderosa, aumentado su fuerza y habilidades de combate. Esta transformación le permite rivalizar con los guerreros más fuertes del Universo.",
+        "impacto": "Daño Causado: Alto Bajo"
+      }
+    ]
+  }
+]

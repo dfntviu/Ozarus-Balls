@@ -1,0 +1,953 @@
+[
+  {
+    "id": "goku-z-saiyajins",
+    "name": "Goku",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 32000,
+      "label": "Más de 8000 (base); 32000 (Kaioken x4)",
+      "official": true
+    },
+    "description": "Guerrero criado en la Tierra que enfrenta a Vegeta para proteger a sus amigos y evitar la destrucción del planeta.",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Kaioken + Kamehameha",
+    "transformations": [
+      "Kaioken x4"
+    ]
+  },
+  {
+    "id": "vegeta-z-saiyajins",
+    "name": "Vegeta",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 18000,
+      "label": "18000",
+      "official": true
+    },
+    "description": "Príncipe de los Saiyajins, orgulloso y despiadado, que llega a la Tierra buscando las Esferas del Dragón.",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Galick Gun"
+  },
+  {
+    "id": "nappa-z-saiyajins",
+    "name": "Nappa",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 4000,
+      "label": "4000",
+      "official": true
+    },
+    "description": "Guerrero de élite subordinado a Vegeta, caracterizado por su brutalidad y enorme capacidad destructiva.",
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 4,
+    "signatureTechnique": "Break Cannon"
+  },
+  {
+    "id": "raditz-z-saiyajins",
+    "name": "Raditz",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 1500,
+      "label": "1500",
+      "official": true
+    },
+    "description": "Hermano mayor de Goku que revela su verdadero origen extraterrestre y desencadena los acontecimientos de DBZ.",
+    "image": "Villanos/Img01-Radix.jpg",
+    "techniques": [
+      {
+        "name": "Masenko (Rayo de Energía)",
+        "description": "Aunque el Masenko es más asociado con el personaje de Tien Shinhan, Raditz usa una técnica similar. Consiste en concentrar energía en sus manos y lanzarla en forma de un rayo devastador.",
+        "impact": "mid"
+      },
+      {
+        "name": "Double Sunday",
+        "description": "Esta es una de las técnicas más emblemáticas de Raditz consiste en concentrar su energía en sus manos y lanzarla en forma de un rayo devastador",
+        "impact": "mid"
+      },
+      {
+        "name": "Kiai (Onda de Energía)",
+        "description": "Raditz también usa un tipo de onda de energía que genera al gritar ó concentrar su energía. Este ataque puede desorientar a sus enemigos y casusarles un daño.",
+        "impact": "mid"
+      }
+    ],
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 3,
+    "signatureTechnique": "Double Sunday"
+  },
+  {
+    "id": "gohan-z-saiyajins",
+    "name": "Gohan",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 2800,
+      "label": "2800 (ataque de ira contra Nappa)",
+      "official": true
+    },
+    "description": "Hijo de Goku que entrena bajo la tutela de Piccolo y manifiesta un extraordinario poder cuando experimenta ira.",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 3,
+    "signatureTechnique": "Masenko"
+  },
+  {
+    "id": "piccolo-z-saiyajins",
+    "name": "Piccolo",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 3500,
+      "label": "3500",
+      "official": true
+    },
+    "description": "Antiguo rival de Goku que termina sacrificando su vida para proteger a Gohan durante la invasión Saiyajin.",
+    "role": "hero",
+    "race": "namekian",
+    "tier": 3,
+    "signatureTechnique": "Makankosappo"
+  },
+  {
+    "id": "krilin-z-saiyajins",
+    "name": "Krilin",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 1770,
+      "label": "1770",
+      "official": true
+    },
+    "description": "Discípulo de la Escuela Tortuga y amigo de Goku, cuya inteligencia táctica compensa sus limitaciones físicas.",
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "Kienzan"
+  },
+  {
+    "id": "yamcha-z-saiyajins",
+    "name": "Yamcha",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 1480,
+      "label": "1480",
+      "official": true
+    },
+    "description": "Artista marcial terrestre que participa en la defensa del planeta y muere durante el enfrentamiento con los Saibaiman.",
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "Sokidan"
+  },
+  {
+    "id": "ten-shin-han-z-saiyajins",
+    "name": "Ten Shin Han",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 1830,
+      "label": "1830",
+      "official": true
+    },
+    "description": "Guerrero disciplinado que emplea técnicas de alto desgaste energético para combatir a los invasores Saiyajins.",
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "signatureTechnique": "Kikoho"
+  },
+  {
+    "id": "chaoz-z-saiyajins",
+    "name": "Chaoz",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 610,
+      "label": "610",
+      "official": true
+    },
+    "description": "Compañero inseparable de Ten Shin Han, capaz de utilizar habilidades psíquicas y dispuesto a sacrificar su vida.",
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Autodestrucción"
+  },
+  {
+    "id": "yajirobe-z-saiyajins",
+    "name": "Yajirobe",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 970,
+      "label": "970",
+      "official": true
+    },
+    "description": "Espadachín terrestre que interviene decisivamente en la batalla al cortar la cola de Vegeta transformado.",
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Ataque con katana"
+  },
+  {
+    "id": "saibaiman-z-saiyajins",
+    "name": "Saibaiman",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 1200,
+      "label": "1200",
+      "official": true
+    },
+    "description": "Organismo de combate cultivado por los Saiyajins, diseñado para atacar en grupo y sorprender mediante explosiones.",
+    "role": "villain",
+    "race": "artificial-creature",
+    "tier": 2,
+    "signatureTechnique": "Autodestrucción"
+  },
+  {
+    "id": "kaio-del-norte-z-saiyajins",
+    "name": "Kaio del Norte",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 3500,
+      "label": "3500",
+      "official": true
+    },
+    "description": "Maestro celestial que entrena a Goku y le transmite técnicas fundamentales para enfrentar amenazas superiores.",
+    "role": "support",
+    "race": "kaio",
+    "tier": 3,
+    "signatureTechnique": "Kaioken (enseñanza)"
+  },
+  {
+    "id": "maestro-roshi-z-saiyajins",
+    "name": "Maestro Roshi",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "value": 139,
+      "label": "139",
+      "official": true
+    },
+    "description": "Legendario maestro de artes marciales y antiguo instructor de Goku y Krilin, creador del Kamehameha.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Kamehameha"
+  },
+  {
+    "id": "bulma-z-saiyajins",
+    "name": "Bulma",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "label": "No aplica",
+      "official": false
+    },
+    "description": "Científica de Capsule Corporation cuya capacidad tecnológica resulta esencial para las aventuras de los guerreros.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Ingeniería y tecnología"
+  },
+  {
+    "id": "chi-chi-z-saiyajins",
+    "name": "Chi-Chi",
+    "saga": "z",
+    "arc": "saiyajins",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Esposa de Goku y madre de Gohan, dedicada a proteger a su familia y priorizar la educación de su hijo.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Artes marciales"
+  },
+  {
+    "id": "goku-z-freezer",
+    "name": "Goku",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 150000000,
+      "label": "150000000 (Super Saiyajin)",
+      "official": true
+    },
+    "description": "Alcanza por primera vez la transformación Super Saiyajin tras presenciar la muerte de Krilin a manos de Freezer.",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Super Saiyajin + Kamehameha",
+    "transformations": [
+      "Super Saiyajin"
+    ]
+  },
+  {
+    "id": "freezer-z-freezer",
+    "name": "Freezer",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 120000000,
+      "label": "120000000 (100 %)",
+      "official": true
+    },
+    "description": "Emperador galáctico responsable de la destrucción del planeta Vegeta, obsesionado con obtener la inmortalidad.",
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 5,
+    "signatureTechnique": "Death Ball"
+  },
+  {
+    "id": "vegeta-z-freezer",
+    "name": "Vegeta",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "Variable; sin cifra oficial final",
+      "official": false
+    },
+    "description": "Se rebela contra Freezer y busca alcanzar el poder legendario del Super Saiyajin para vengar a su raza.",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 4,
+    "signatureTechnique": "Final Burst Cannon"
+  },
+  {
+    "id": "gohan-z-freezer",
+    "name": "Gohan",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "Variable; aumenta con la ira",
+      "official": false
+    },
+    "description": "Participa en la búsqueda de las Esferas de Namek y demuestra un potencial extraordinario durante los combates.",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 3,
+    "signatureTechnique": "Masenko"
+  },
+  {
+    "id": "krilin-z-freezer",
+    "name": "Krilin",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 13000,
+      "label": "13000 (tras desbloqueo; referencial)",
+      "official": false
+    },
+    "description": "Viaja a Namek junto a Gohan y Bulma, donde recibe un incremento de poder gracias al Gran Patriarca.",
+    "role": "hero",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Kienzan"
+  },
+  {
+    "id": "piccolo-z-freezer",
+    "name": "Piccolo",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 1000000,
+      "label": "Más de 1000000 (tras fusionarse con Nail)",
+      "official": true
+    },
+    "description": "Resucita mediante las Esferas del Dragón y se fusiona con Nail para combatir las transformaciones de Freezer.",
+    "role": "hero",
+    "race": "namekian",
+    "tier": 3,
+    "signatureTechnique": "Makankosappo",
+    "transformations": [
+      "Fusión con Nail"
+    ]
+  },
+  {
+    "id": "nail-z-freezer",
+    "name": "Nail",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 42000,
+      "label": "42000",
+      "official": true
+    },
+    "description": "Protector del Gran Patriarca que enfrenta valientemente a Freezer antes de fusionarse permanentemente con Piccolo.",
+    "role": "hero",
+    "race": "namekian",
+    "tier": 1,
+    "signatureTechnique": "Ataques de energía namekiana"
+  },
+  {
+    "id": "gran-patriarca-z-freezer",
+    "name": "Gran Patriarca",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "No aplica",
+      "official": false
+    },
+    "description": "Líder espiritual de Namek y creador de sus Esferas del Dragón, capaz de liberar el poder latente de otros.",
+    "role": "support",
+    "race": "namekian",
+    "tier": 1,
+    "signatureTechnique": "Desbloqueo del potencial oculto"
+  },
+  {
+    "id": "dende-z-freezer",
+    "name": "Dende",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Joven namekiano que auxilia a los protagonistas mediante sus habilidades curativas durante la batalla contra Freezer.",
+    "role": "support",
+    "race": "namekian",
+    "tier": 1,
+    "signatureTechnique": "Curación"
+  },
+  {
+    "id": "dodoria-z-freezer",
+    "name": "Dodoria",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 22000,
+      "label": "22000",
+      "official": true
+    },
+    "description": "Soldado de confianza de Freezer, conocido por su temperamento violento y su participación en la masacre de Namek.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Dodoria Beam"
+  },
+  {
+    "id": "zarbon-z-freezer",
+    "name": "Zarbon",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 30000,
+      "label": "30000 (transformado; aproximado)",
+      "official": false
+    },
+    "description": "Asistente de Freezer que oculta una transformación monstruosa capaz de incrementar considerablemente su fuerza.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Elegant Blaster",
+    "transformations": [
+      "Forma transformada"
+    ]
+  },
+  {
+    "id": "capitan-ginyu-z-freezer",
+    "name": "Capitán Ginyu",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 120000,
+      "label": "120000",
+      "official": true
+    },
+    "description": "Líder de las Fuerzas Especiales Ginyu, poseedor de una habilidad que le permite intercambiar cuerpos.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 2,
+    "signatureTechnique": "Body Change"
+  },
+  {
+    "id": "recoome-z-freezer",
+    "name": "Recoome",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 40000,
+      "label": "No oficial (estimado: 40000+)",
+      "official": false
+    },
+    "description": "Integrante de las Fuerzas Ginyu que combina resistencia extraordinaria, fuerza bruta y comportamiento extravagante.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Recoome Eraser Gun"
+  },
+  {
+    "id": "burter-z-freezer",
+    "name": "Burter",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 40000,
+      "label": "No oficial (estimado: 40000+)",
+      "official": false
+    },
+    "description": "Combatiente que presume de ser el más rápido del universo y utiliza ataques combinados con Jeice.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Purple Comet Attack"
+  },
+  {
+    "id": "jeice-z-freezer",
+    "name": "Jeice",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 40000,
+      "label": "No oficial (estimado: 40000+)",
+      "official": false
+    },
+    "description": "Miembro de las Fuerzas Ginyu especializado en ataques energéticos y técnicas coordinadas con sus compañeros.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Crusher Ball"
+  },
+  {
+    "id": "guldo-z-freezer",
+    "name": "Guldo",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "value": 10000,
+      "label": "No oficial (estimado: 10000)",
+      "official": false
+    },
+    "description": "Guerrero de escasa fuerza relativa que compensa sus limitaciones mediante poderes psíquicos y detención temporal.",
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "signatureTechnique": "Time Freeze"
+  },
+  {
+    "id": "king-cold-z-freezer",
+    "name": "King Cold",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Padre de Freezer y antiguo soberano galáctico que llega a la Tierra acompañado de su hijo reconstruido.",
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 4,
+    "signatureTechnique": "Ataques de energía"
+  },
+  {
+    "id": "trunks-del-futuro-z-freezer",
+    "name": "Trunks del futuro",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "No oficial (Super Saiyajin)",
+      "official": false
+    },
+    "description": "Misterioso guerrero procedente del futuro que derrota a Freezer y King Cold antes de advertir sobre los androides.",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 5,
+    "signatureTechnique": "Burning Attack",
+    "transformations": [
+      "Super Saiyajin"
+    ]
+  },
+  {
+    "id": "bulma-z-freezer",
+    "name": "Bulma",
+    "saga": "z",
+    "arc": "freezer",
+    "power": {
+      "label": "No aplica",
+      "official": false
+    },
+    "description": "Acompaña a Gohan y Krilin en su expedición espacial, aportando conocimientos científicos y apoyo logístico.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Ingeniería y exploración"
+  },
+  {
+    "id": "goku-z-cell",
+    "name": "Goku",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (Super Saiyajin dominado)",
+      "official": false
+    },
+    "description": "Perfecciona el Super Saiyajin en la Habitación del Tiempo y prepara a Gohan para enfrentar a Cell.",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Kamehameha instantáneo",
+    "transformations": [
+      "Super Saiyajin (dominado)"
+    ]
+  },
+  {
+    "id": "gohan-z-cell",
+    "name": "Gohan",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "value": 2,
+      "label": "No oficial (Super Saiyajin 2)",
+      "official": false
+    },
+    "description": "Supera los límites de su padre al alcanzar el Super Saiyajin 2 y convertirse en el principal rival de Cell.",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 5,
+    "signatureTechnique": "Kamehameha Padre-Hijo",
+    "transformations": [
+      "Super Saiyajin 2"
+    ]
+  },
+  {
+    "id": "vegeta-z-cell",
+    "name": "Vegeta",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (Super Saiyajin de segundo grado)",
+      "official": false
+    },
+    "description": "Entrena obsesivamente para superar a Goku y permite que Cell alcance su forma perfecta por orgullo.",
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 4,
+    "signatureTechnique": "Final Flash",
+    "transformations": [
+      "Super Saiyajin de segundo grado"
+    ]
+  },
+  {
+    "id": "trunks-del-futuro-z-cell",
+    "name": "Trunks del futuro",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (Super Saiyajin de tercer grado)",
+      "official": false
+    },
+    "description": "Viaja desde un futuro devastado para impedir el dominio de los androides y modificar el destino de la humanidad.",
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 4,
+    "signatureTechnique": "Burning Attack",
+    "transformations": [
+      "Super Saiyajin de tercer grado"
+    ]
+  },
+  {
+    "id": "trunks-nino-z-cell",
+    "name": "Trunks niño",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Hijo de Vegeta y Bulma nacido en la línea temporal principal, todavía demasiado pequeño para combatir.",
+    "role": "support",
+    "race": "half-saiyan",
+    "tier": 1,
+    "signatureTechnique": "Ataques básicos de ki"
+  },
+  {
+    "id": "piccolo-z-cell",
+    "name": "Piccolo",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (fusionado con Kami)",
+      "official": false
+    },
+    "description": "Se reunifica con Kami y obtiene un enorme incremento de poder para enfrentar a Cell y los androides.",
+    "role": "hero",
+    "race": "namekian",
+    "tier": 3,
+    "signatureTechnique": "Hellzone Grenade",
+    "transformations": [
+      "Fusión con Kami"
+    ]
+  },
+  {
+    "id": "cell-z-cell",
+    "name": "Cell",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (Super Perfect Cell)",
+      "official": false
+    },
+    "description": "Organismo artificial creado por el Dr. Gero que absorbe a los androides 17 y 18 para alcanzar la perfección.",
+    "role": "villain",
+    "race": "bio-android",
+    "tier": 5,
+    "signatureTechnique": "Solar Kamehameha",
+    "transformations": [
+      "Super Perfect Cell"
+    ]
+  },
+  {
+    "id": "androide-16-z-cell",
+    "name": "Androide 16",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Máquina pacifista amante de la naturaleza, cuya destrucción desencadena la transformación definitiva de Gohan.",
+    "role": "hero",
+    "race": "android",
+    "tier": 3,
+    "signatureTechnique": "Hell's Flash"
+  },
+  {
+    "id": "androide-17-z-cell",
+    "name": "Androide 17",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Creación del Dr. Gero con energía prácticamente ilimitada, absorbido posteriormente por Cell.",
+    "role": "villain",
+    "race": "cyborg",
+    "tier": 3,
+    "signatureTechnique": "Barrera de energía"
+  },
+  {
+    "id": "androide-18-z-cell",
+    "name": "Androide 18",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Hermana gemela del Androide 17, dotada de resistencia extraordinaria y energía artificial inagotable.",
+    "role": "villain",
+    "race": "cyborg",
+    "tier": 3,
+    "signatureTechnique": "Infinity Bullet"
+  },
+  {
+    "id": "androide-19-z-cell",
+    "name": "Androide 19",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Robot construido por el Dr. Gero que absorbe la energía de sus adversarios mediante dispositivos en sus manos.",
+    "role": "villain",
+    "race": "android",
+    "tier": 2,
+    "signatureTechnique": "Absorción de energía"
+  },
+  {
+    "id": "dr-gero-androide-20-z-cell",
+    "name": "Dr. Gero / Androide 20",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Científico del Ejército Red Ribbon que desarrolla androides para ejecutar su venganza contra Goku.",
+    "image": "Villanos/Dr.Guero.jpg",
+    "techniques": [
+      {
+        "name": "Autodestrucción",
+        "description": "En caso de que sus creaciones no hayan salido como el queria el incorporo un mecanismo de detonación en las manos de los androide ayudandolos en situaciónes extremas, donde requieran salvar su vida bionica.",
+        "impact": "max"
+      },
+      {
+        "name": "Manipulación de la energía",
+        "description": "El Dr. Guero puede lanzar rayos de energía desde sus manos, una técnica que utiliza para ataques de corto alcance. aunque no es una técnica principal es útil para situaciónes de combate.",
+        "impact": "high"
+      },
+      {
+        "name": "Autonomía Cibernetica",
+        "description": "Es un Cyborg, posee una increíble resistencia y fuerza sobrehumana, junto con la capacida de autoregenerarse. Sus mejoras cibernéticas le permiten adaptarse a diferentes situaciones de combate."
+      }
+    ],
+    "role": "villain",
+    "race": "cyborg",
+    "tier": 2,
+    "faction": "red-ribbon",
+    "signatureTechnique": "Absorción de energía"
+  },
+  {
+    "id": "cell-jr-z-cell",
+    "name": "Cell Jr.",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Pequeñas criaturas generadas por Cell que poseen un poder extraordinario y atacan simultáneamente a los guerreros.",
+    "role": "villain",
+    "race": "bio-android",
+    "tier": 4,
+    "signatureTechnique": "Kamehameha"
+  },
+  {
+    "id": "krilin-z-cell",
+    "name": "Krilin",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Desarrolla sentimientos por la Androide 18 y decide protegerla, incluso cuando ello compromete la estrategia del grupo.",
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Kienzan"
+  },
+  {
+    "id": "ten-shin-han-z-cell",
+    "name": "Ten Shin Han",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Arriesga su vida utilizando repetidamente el Shin Kikoho para retrasar a Cell semiperfecto.",
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Shin Kikoho"
+  },
+  {
+    "id": "yamcha-z-cell",
+    "name": "Yamcha",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Participa en la defensa terrestre y sobrevive al ataque inicial del Dr. Gero gracias a sus compañeros.",
+    "role": "hero",
+    "race": "human",
+    "tier": 2,
+    "signatureTechnique": "Sokidan"
+  },
+  {
+    "id": "dende-z-cell",
+    "name": "Dende",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Asume el puesto de nuevo guardián de la Tierra y restaura las Esferas del Dragón tras la reunificación de Piccolo.",
+    "role": "support",
+    "race": "namekian",
+    "tier": 1,
+    "signatureTechnique": "Curación y creación de Esferas del Dragón"
+  },
+  {
+    "id": "mr-satan-z-cell",
+    "name": "Mr. Satan",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial (humano convencional)",
+      "official": false
+    },
+    "description": "Campeón mundial de artes marciales que obtiene reconocimiento público por una victoria sobre Cell que no consiguió.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Satan Miracle Special Ultra Super Megaton Punch"
+  },
+  {
+    "id": "androide-8-z-cell",
+    "name": "Androide 8",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No oficial",
+      "official": false
+    },
+    "description": "Antigua creación del Ejército Red Ribbon que aparece brevemente entre los habitantes protegidos por los héroes.",
+    "role": "support",
+    "race": "android",
+    "tier": 1,
+    "faction": "red-ribbon",
+    "signatureTechnique": "Fuerza física"
+  },
+  {
+    "id": "bulma-z-cell",
+    "name": "Bulma",
+    "saga": "z",
+    "arc": "cell",
+    "power": {
+      "label": "No aplica",
+      "official": false
+    },
+    "description": "Analiza tecnología del Dr. Gero y contribuye a los preparativos científicos necesarios para enfrentar a los androides.",
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "signatureTechnique": "Ingeniería de androides y máquina del tiempo"
+  },
+  {
+    "id": "garlic-jr-z-garlic-jr",
+    "name": "Garlic Jr.",
+    "saga": "z",
+    "arc": "garlic-jr",
+    "description": "Garlic Jr. es un personaje pequeño con apariencia demoníaca.Su padre es el demonio Garlic quien intentó dominar el mundo. Busca vengar la muerte de este y continuar con su legado. Tiene aparición, después de la muerte de Freezer dondé escapa de la zona y aprovecha la oportunidad para vengarse de los amigos de Goku(ya que está muerto).",
+    "image": "Villanos/garlic.jr.jpg",
+    "techniques": [
+      {
+        "name": "Dead Zone",
+        "description": "Es capaz de abrir un vortice dimensional llamado la Zona Muerta, que absorbe todo lo que está cerca de él. Está técnica es extremadamente poderosa y puede capturar a sus enemigosen una dimensión alternativa.",
+        "impact": "max"
+      },
+      {
+        "name": "Makankosappo",
+        "description": "Puede concentrar su energía en sus manos y lanzarla como un potente rayo de energía destrutiva. Muy similar al Kamehameha.",
+        "impact": "mid"
+      },
+      {
+        "name": "Tr Demonio",
+        "description": "Se transforma en una forma más poderosa, aumentado su fuerza y habilidades de combate. Esta transformación le permite rivalizar con los guerreros más fuertes del Universo.",
+        "impact": "high"
+      }
+    ],
+    "role": "villain",
+    "race": "demon",
+    "tier": 5,
+    "signatureTechnique": "Dead Zone"
+  }
+]

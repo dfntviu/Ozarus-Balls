@@ -1,0 +1,51 @@
+{
+  "_doc": "Capa editorial de GT. 'role' y 'race' obligatorios. El tier se CALCULA desde data-raw/gt.power.json (escala logarítmica); un 'tier' aquí lo sobrescribiría.",
+  "goku-nino-gt": {
+    "role": "hero",
+    "race": "saiyan"
+  },
+  "pan-gt": {
+    "role": "hero",
+    "race": "half-saiyan",
+    "note": "Es 1/4 saiyajin; el enum no lo distingue."
+  },
+  "baby-gt": {
+    "role": "villain",
+    "race": "alien",
+    "note": "Es tsufurujin: no tiene raza propia en el enum (alien provisional)."
+  },
+  "gohan-gt": {
+    "role": "hero",
+    "race": "half-saiyan"
+  },
+  "general-rildo-gt": {
+    "role": "villain",
+    "race": "android"
+  },
+  "super-17-gt": {
+    "role": "villain",
+    "race": "android"
+  },
+  "dragon-de-2-estrellas-gt": {
+    "role": "villain",
+    "race": "dragon",
+    "note": "La imagen (Eis-sheron) corresponde a Eis Shenron, el dragón de 4 estrellas; el de 2 estrellas es Ryan Shenron. ¿Renombrar o cambiar imagen?",
+    "techniqueFixes": {
+      "Manipular Hielo": {
+        "name": "Rayo de hielo"
+      }
+    }
+  },
+  "goku-gt": {
+    "role": "hero",
+    "race": "saiyan"
+  },
+  "vegeta-gt": {
+    "role": "hero",
+    "race": "saiyan"
+  },
+  "dragon-de-1-estrella-gt": {
+    "role": "villain",
+    "race": "dragon"
+  }
+}

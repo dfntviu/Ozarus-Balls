@@ -1,0 +1,216 @@
+[
+  {
+    "id": "goku-nino-gt",
+    "name": "Goku Niño",
+    "saga": "gt",
+    "description": "Es el protagonista de todas las Sagas. En Gt, su fuerza fue limítada por un deseo malintecionado de su antigüo rival Pilaf. Aunque, perdió bastance porcentaje de pelea.Desarrolló habilidades de supervivencia y mejora su estrategia de combate, caract. que le ayudo en su transformacion SSJ4.",
+    "image": "dragon.ball.gt/Im.1-Goku.nino.jpg",
+    "techniques": [
+      {
+        "name": "Puño de Dragón",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 300000000,
+      "label": "300,000,000",
+      "official": false
+    },
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 3,
+    "signatureTechnique": "Puño de Dragón"
+  },
+  {
+    "id": "pan-gt",
+    "name": "Pan",
+    "saga": "gt",
+    "description": "Es la nieta de Goku, es muy comprensiva. Su nivel de pelea es bajo, ya que es hija de Gohan, es un sayayin hibrido. Pero es muy floja Cuenta con técnicas sencillas. y no tiene tecnicas propias.",
+    "image": "dragon.ball.gt/Im.02-Pan.jpg",
+    "power": {
+      "value": 50000000,
+      "label": "50,000,000",
+      "official": false
+    },
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 1
+  },
+  {
+    "id": "baby-gt",
+    "name": "Baby",
+    "saga": "gt",
+    "description": "Baby es el tsufurujin mejorado por el Dr. Guero, con el propósito de acabar con los sayayin, este se alimenta del Alma de las personas y es muy peligroso pues roba su energía.",
+    "image": "dragon.ball.gt/Im.06-Baby.jpg",
+    "power": {
+      "value": 700000000,
+      "label": "700,000,000",
+      "official": false
+    },
+    "role": "villain",
+    "race": "alien",
+    "tier": 5
+  },
+  {
+    "id": "gohan-gt",
+    "name": "Gohan",
+    "saga": "gt",
+    "description": "Sigue siendo muy fuerte, especialmente cuando se transforma en Super Saiyan 2. Aunque su nivel de poder puede no ser tan alto como el de Goku o Vegeta en sus formas más avanzadas, su capacidad para manejar situaciones difíciles.Gohan combina su inteligencia natural con sus habilidades de combate.",
+    "image": "dragon.ball.gt/Im.05-Gohan.jpg",
+    "power": {
+      "value": 150000000,
+      "label": "150,000,000",
+      "official": false
+    },
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 2
+  },
+  {
+    "id": "general-rildo-gt",
+    "name": "General Rildo",
+    "saga": "gt",
+    "description": "Es un miembro de la raza de los Androides, creados por el Dr. Myuu. Es uno de los antagonistas principales de la saga de los Dragones Oscuros. En su forma original, Ryldo tiene la apariencia de un humano.En su forma mecánica es extremadamente poderoso y representa una amenaza Su capacidad para transformar su cuerpo en varias formas ofensivas le permite luchar eficazmente",
+    "image": "dragon.ball.gt/Im.06-Grl.Ryldo.jpg",
+    "techniques": [
+      {
+        "name": "Transformar partes de su cuerpo en armas",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 250000000,
+      "label": "250,000,000",
+      "official": false
+    },
+    "role": "villain",
+    "race": "android",
+    "tier": 3,
+    "signatureTechnique": "Transformar partes de su cuerpo en armas"
+  },
+  {
+    "id": "super-17-gt",
+    "name": "Súper 17",
+    "saga": "gt",
+    "description": "Es una fusión del androide 17 de Dragon Ball Z y del androide 17 creado por el Dr. Myuu,el androide 17 original fusionan sus energías para crear a Super 17, pero con habilidades mucho más avanzadas.",
+    "image": "dragon.ball.gt/Im.07-Super-17.jpg",
+    "power": {
+      "value": 850000000,
+      "label": "850,000,000",
+      "official": false
+    },
+    "role": "villain",
+    "race": "android",
+    "tier": 5
+  },
+  {
+    "id": "dragon-de-2-estrellas-gt",
+    "name": "Dragón de 2 Estrellas",
+    "saga": "gt",
+    "description": "Este, forma parte de los Dragones Oscuros. Combina una fuerza respetable con habilidades de combate tácticas y técnicas únicas basadas en el hielo, combina sus técnicas físicas y ataques basados en el control del hielo",
+    "image": "dragon.ball.gt/Im.09-Eis-sheronjpg.jpg",
+    "techniques": [
+      {
+        "name": "Rayo de hielo",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 120000000,
+      "label": "120,000,000",
+      "official": false
+    },
+    "role": "villain",
+    "race": "dragon",
+    "tier": 2,
+    "signatureTechnique": "Rayo de hielo"
+  },
+  {
+    "id": "goku-gt",
+    "name": "Goku",
+    "saga": "gt",
+    "description": "Goku en la forma Super Saiyan 4 es increíblemente poderoso, con un nivel de poder que supera al de los Super Saiyan 3 y se acerca al de los dioses de la destrucción en términos de fuerza y habilidades.",
+    "image": "dragon.ball.gt/Im.09-Goku.Ss4.jpg",
+    "techniques": [
+      {
+        "name": "Blutz Wave Attack",
+        "description": ""
+      },
+      {
+        "name": "Puño Dragón",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 950000000,
+      "label": "950,000,000",
+      "official": false
+    },
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Blutz Wave Attack",
+    "transformations": [
+      "Super Saiyajin 4"
+    ]
+  },
+  {
+    "id": "vegeta-gt",
+    "name": "Vegeta",
+    "saga": "gt",
+    "description": "Es extremadamente fuerte, superando a los Super Saiyan anteriores y rivalizando con el poder de Goku en la misma forma. Es capaz de enfrentarse a enemigos muy poderosos, incluidos los dragones oscuros, este muestra un aumento en sus habilidades de combate y técnicas, combinando la agresividad del Oozaru con el control y presición",
+    "image": "dragon.ball.gt/Im.10-vegueta.Ss4.jpg",
+    "techniques": [
+      {
+        "name": "Ataq Big Bang",
+        "description": ""
+      },
+      {
+        "name": "Resplandor Final",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 900000000,
+      "label": "900,000,000",
+      "official": false
+    },
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "signatureTechnique": "Ataq Big Bang",
+    "transformations": [
+      "Super Saiyajin 4"
+    ]
+  },
+  {
+    "id": "dragon-de-1-estrella-gt",
+    "name": "Dragón de 1 Estrella",
+    "saga": "gt",
+    "description": "Su nivel de poder está muy por encima de los dragones de menor rango como el Dragón de Una Estrella y el Dragón de Dos Estrellas,representa una gran amenaza debido a su alto nivel de poder y sus técnicas destructivas. Se debe de evitar sus ataques de energía y aprovechar sus momentos de vulnerabilidad. Es crucial utilizar ataques rápidos y coordinados.",
+    "image": "dragon.ball.gt/Im.10-Yi-Shenron.jpg",
+    "techniques": [
+      {
+        "name": "Absorción",
+        "description": ""
+      },
+      {
+        "name": "Bola",
+        "description": ""
+      },
+      {
+        "name": "Aliento de energí obscura",
+        "description": ""
+      }
+    ],
+    "power": {
+      "value": 1200000000,
+      "label": "1,200,000,000",
+      "official": false
+    },
+    "role": "villain",
+    "race": "dragon",
+    "tier": 5,
+    "signatureTechnique": "Absorción"
+  }
+]

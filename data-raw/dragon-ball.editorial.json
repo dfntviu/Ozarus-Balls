@@ -1,0 +1,181 @@
+{
+  "_doc": "Capa editorial. 'role', 'race' y 'tier' son obligatorios (en esta saga no hay cifras de poder: el tier es poder relativo dentro de la saga, PROVISIONAL). Opcionales: name, signatureTechnique, transformations, purpose, note.",
+  "abuelo-gohan-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "yamcha-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 3
+  },
+  "bulma-dragon-ball": {
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  "oolong-dragon-ball": {
+    "role": "support",
+    "race": "anthropomorphic",
+    "tier": 1
+  },
+  "puar-dragon-ball": {
+    "role": "support",
+    "race": "anthropomorphic",
+    "tier": 1
+  },
+  "kamisama-dragon-ball": {
+    "role": "hero",
+    "race": "namekian",
+    "tier": 4
+  },
+  "maestro-roshi-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "techniqueFixes": {
+      "Forma Maxima": {
+        "name": "Max Power",
+        "description": "Roshi expande su masa muscular para multiplicar su fuerza y la potencia de su Kamehameha. Con ella apagó el fuego de la Montaña Frypan y destruyó la Luna."
+      }
+    },
+    "note": "Descripción de Max Power redactada por Claude (la original era una copia de una técnica de Kami): verifícala."
+  },
+  "jackie-chun-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 3,
+    "note": "Es la identidad secreta del Maestro Roshi: ¿ficha aparte o alias de Roshi?"
+  },
+  "uranai-baba-dragon-ball": {
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  "ten-shin-han-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 4
+  },
+  "oxatan-dragon-ball": {
+    "role": "support",
+    "race": "human",
+    "tier": 2
+  },
+  "mr-popo-dragon-ball": {
+    "role": "support",
+    "race": "alien",
+    "tier": 3,
+    "note": "Raza no especificada en la serie; alien provisional."
+  },
+  "chi-chi-dragon-ball": {
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  "bora-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "yajirobe-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "goku-dragon-ball": {
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5
+  },
+  "chaoz-dragon-ball": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "rey-piccolo-dragon-ball": {
+    "role": "villain",
+    "race": "namekian",
+    "tier": 5
+  },
+  "tao-pai-pai-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 3
+  },
+  "red-ribbon-dragon-ball": {
+    "skip": "es una organización: convertida en la facción \"red-ribbon\" (src/data/factions.json)",
+    "role": "villain"
+  },
+  "emperador-pilaf-dragon-ball": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1,
+    "note": "Raza no especificada; alien provisional."
+  },
+  "general-blue-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 2,
+    "faction": "red-ribbon"
+  },
+  "general-red-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 1,
+    "faction": "red-ribbon"
+  },
+  "maestro-shen-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 2
+  },
+  "ninja-purpura-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 2,
+    "faction": "red-ribbon"
+  },
+  "demonio-mai-dragon-ball": {
+    "role": "villain",
+    "race": "demon",
+    "tier": 3,
+    "note": "La imagen es 'ayudante.picolo' y tiene alas: ¿es Tambourine? Mai (asistente de Pilaf) ya tiene su ficha."
+  },
+  "cymbal-dragon-ball": {
+    "role": "villain",
+    "race": "demon",
+    "tier": 3
+  },
+  "mai-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 1
+  },
+  "lunch-dragon-ball": {
+    "role": "support",
+    "race": "human",
+    "tier": 1,
+    "note": "Venía en la página de Villanos; en la serie termina como aliada. ¿villain o support?"
+  },
+  "coronel-silver-dragon-ball": {
+    "role": "villain",
+    "race": "human",
+    "tier": 1,
+    "faction": "red-ribbon"
+  },
+  "androide-8-dragon-ball": {
+    "role": "hero",
+    "race": "android",
+    "tier": 2,
+    "note": "Venía en la página de Villanos, pero en la serie se pone del lado de Goku.",
+    "faction": "red-ribbon"
+  },
+  "giran-dragon-ball": {
+    "role": "villain",
+    "race": "monster",
+    "tier": 2,
+    "note": "Es rival de torneo, no estrictamente villano."
+  }
+}

@@ -1,0 +1,29 @@
+.panel {
+  display: grid;
+  gap: var(--space-4);
+  max-width: 40rem;
+  padding: var(--space-7) var(--space-5);
+  border: var(--border-ink);
+  border-radius: var(--radius-panel);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-ink);
+  transform: rotate(var(--panel-tilt));
+}
+
+.badge {
+  justify-self: start;
+  padding: var(--space-1) var(--space-3);
+  border: var(--border-thin);
+  background: var(--color-highlight);
+  color: var(--color-on-highlight);
+  font-size: var(--text-xs);
+  font-weight: 700;
+}
+
+.title {
+  font-size: var(--text-2xl);
+}
+
+.text {
+  color: var(--color-text-muted);
+}

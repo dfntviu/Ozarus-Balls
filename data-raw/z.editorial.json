@@ -1,0 +1,208 @@
+{
+  "_doc": "Capa editorial de la saga Z. 'role' es obligatorio. 'tier' aquí SOBRESCRIBE el calculado; úsalo donde no hay cifra o para corregir. 'purpose' y 'transformations' opcionales (transformations reemplaza a las detectadas).",
+  "goku-z-saiyajins": {
+    "role": "hero"
+  },
+  "vegeta-z-saiyajins": {
+    "role": "villain"
+  },
+  "nappa-z-saiyajins": {
+    "role": "villain"
+  },
+  "raditz-z-saiyajins": {
+    "role": "villain"
+  },
+  "gohan-z-saiyajins": {
+    "role": "hero"
+  },
+  "piccolo-z-saiyajins": {
+    "role": "hero"
+  },
+  "krilin-z-saiyajins": {
+    "role": "hero"
+  },
+  "yamcha-z-saiyajins": {
+    "role": "hero"
+  },
+  "ten-shin-han-z-saiyajins": {
+    "role": "hero"
+  },
+  "chaoz-z-saiyajins": {
+    "role": "hero"
+  },
+  "yajirobe-z-saiyajins": {
+    "role": "hero"
+  },
+  "saibaiman-z-saiyajins": {
+    "role": "villain"
+  },
+  "kaio-del-norte-z-saiyajins": {
+    "role": "support"
+  },
+  "maestro-roshi-z-saiyajins": {
+    "role": "support"
+  },
+  "bulma-z-saiyajins": {
+    "role": "support",
+    "tier": 1
+  },
+  "chi-chi-z-saiyajins": {
+    "role": "support",
+    "tier": 1
+  },
+  "goku-z-freezer": {
+    "role": "hero"
+  },
+  "freezer-z-freezer": {
+    "role": "villain"
+  },
+  "vegeta-z-freezer": {
+    "role": "hero",
+    "tier": 4,
+    "note": "Antihéroe: se rebela contra Freezer. ¿hero o villain?"
+  },
+  "gohan-z-freezer": {
+    "role": "hero",
+    "tier": 3
+  },
+  "krilin-z-freezer": {
+    "role": "hero"
+  },
+  "piccolo-z-freezer": {
+    "role": "hero"
+  },
+  "nail-z-freezer": {
+    "role": "hero"
+  },
+  "gran-patriarca-z-freezer": {
+    "role": "support",
+    "tier": 1
+  },
+  "dende-z-freezer": {
+    "role": "support",
+    "tier": 1
+  },
+  "dodoria-z-freezer": {
+    "role": "villain"
+  },
+  "zarbon-z-freezer": {
+    "role": "villain"
+  },
+  "capitan-ginyu-z-freezer": {
+    "role": "villain"
+  },
+  "recoome-z-freezer": {
+    "role": "villain"
+  },
+  "burter-z-freezer": {
+    "role": "villain"
+  },
+  "jeice-z-freezer": {
+    "role": "villain"
+  },
+  "guldo-z-freezer": {
+    "role": "villain"
+  },
+  "king-cold-z-freezer": {
+    "role": "villain",
+    "tier": 4
+  },
+  "trunks-del-futuro-z-freezer": {
+    "role": "hero",
+    "tier": 5,
+    "note": "Derrota a Freezer y King Cold."
+  },
+  "bulma-z-freezer": {
+    "role": "support",
+    "tier": 1
+  },
+  "goku-z-cell": {
+    "role": "hero",
+    "tier": 5
+  },
+  "gohan-z-cell": {
+    "role": "hero",
+    "tier": 5
+  },
+  "vegeta-z-cell": {
+    "role": "hero",
+    "tier": 4
+  },
+  "trunks-del-futuro-z-cell": {
+    "role": "hero",
+    "tier": 4
+  },
+  "trunks-nino-z-cell": {
+    "role": "support",
+    "tier": 1
+  },
+  "piccolo-z-cell": {
+    "role": "hero",
+    "tier": 3
+  },
+  "cell-z-cell": {
+    "role": "villain",
+    "tier": 5
+  },
+  "androide-16-z-cell": {
+    "role": "hero",
+    "tier": 3,
+    "note": "Antagonista inicial que termina del lado de los guerreros Z. ¿hero o villain?"
+  },
+  "androide-17-z-cell": {
+    "role": "villain",
+    "tier": 3
+  },
+  "androide-18-z-cell": {
+    "role": "villain",
+    "tier": 3
+  },
+  "androide-19-z-cell": {
+    "role": "villain",
+    "tier": 2
+  },
+  "dr-gero-androide-20-z-cell": {
+    "role": "villain",
+    "tier": 2,
+    "faction": "red-ribbon"
+  },
+  "cell-jr-z-cell": {
+    "role": "villain",
+    "tier": 4
+  },
+  "krilin-z-cell": {
+    "role": "hero",
+    "tier": 2
+  },
+  "ten-shin-han-z-cell": {
+    "role": "hero",
+    "tier": 2
+  },
+  "yamcha-z-cell": {
+    "role": "hero",
+    "tier": 2
+  },
+  "dende-z-cell": {
+    "role": "support",
+    "tier": 1
+  },
+  "mr-satan-z-cell": {
+    "role": "support",
+    "tier": 1
+  },
+  "androide-8-z-cell": {
+    "role": "support",
+    "tier": 1,
+    "faction": "red-ribbon"
+  },
+  "bulma-z-cell": {
+    "role": "support",
+    "tier": 1
+  },
+  "garlic-jr-z-garlic-jr": {
+    "role": "villain",
+    "race": "demon",
+    "tier": 5,
+    "note": "Viene de la página de Villanos. Arco 'garlic-jr' nuevo (relleno del anime): ¿lo conservas o lo integras a otro arco?"
+  }
+}

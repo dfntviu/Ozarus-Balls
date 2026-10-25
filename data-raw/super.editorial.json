@@ -1,0 +1,270 @@
+{
+  "_doc": "Capa editorial. 'role', 'race' y 'tier' son obligatorios (en esta saga no hay cifras de poder: el tier es poder relativo dentro de la saga, PROVISIONAL). Opcionales: name, signatureTechnique, transformations, purpose, note.",
+  "caulifla-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 3
+  },
+  "kale-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 3
+  },
+  "cabba-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 2
+  },
+  "hit-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 4
+  },
+  "toppo-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 4,
+    "note": "Su tabla de técnicas estaba vacía en el HTML."
+  },
+  "gran-sacerdote-super": {
+    "role": "support",
+    "race": "angel",
+    "tier": 5
+  },
+  "whis-super": {
+    "role": "support",
+    "race": "angel",
+    "tier": 5,
+    "note": "En el HTML se titulaba 'dios de la destrucción Whis'; es un ángel."
+  },
+  "bills-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 5
+  },
+  "vados-super": {
+    "role": "support",
+    "race": "angel",
+    "tier": 5
+  },
+  "belmod-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  "champa-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  "dyspo-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 3
+  },
+  "jiren-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 5
+  },
+  "sidra-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  "marcarita-super": {
+    "role": "support",
+    "race": "angel",
+    "tier": 4
+  },
+  "frost-super": {
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 3
+  },
+  "dercori-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  "yamcha-super": {
+    "role": "hero",
+    "race": "human",
+    "tier": 1
+  },
+  "botamo-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  "trunks-del-futuro-super": {
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 4
+  },
+  "maestro-roshi-super": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "piccolo-super": {
+    "role": "hero",
+    "race": "namekian",
+    "tier": 3
+  },
+  "androide-18-super": {
+    "role": "hero",
+    "race": "cyborg",
+    "tier": 3
+  },
+  "androide-17-super": {
+    "role": "hero",
+    "race": "cyborg",
+    "tier": 4
+  },
+  "ten-shin-han-super": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "freezer-super": {
+    "role": "villain",
+    "race": "frieza-race",
+    "tier": 4,
+    "note": "En el Torneo del Poder pelea del lado del Universo 7."
+  },
+  "goku-super": {
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5
+  },
+  "gohan-super": {
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 4
+  },
+  "vegeta-super": {
+    "role": "hero",
+    "race": "saiyan",
+    "tier": 5,
+    "note": "Transformación SSJ Blue tomada de su descripción."
+  },
+  "krilin-super": {
+    "role": "hero",
+    "race": "human",
+    "tier": 2
+  },
+  "goku-black-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 4,
+    "note": "Es Zamasu en el cuerpo de Goku: raza del cuerpo (saiyan), provisional."
+  },
+  "zamasu-super": {
+    "role": "villain",
+    "race": "kaio",
+    "tier": 4,
+    "note": "Es un aprendiz de Kaio (Shinjin)."
+  },
+  "zeno-sama-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 5
+  },
+  "ribrianne-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  "kefla-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 4,
+    "note": "Fusión de Kale y Caulifla."
+  },
+  "broly-super": {
+    "role": "villain",
+    "race": "saiyan",
+    "tier": 5
+  },
+  "kettle-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "paparoni-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  "rats-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "iwen-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "kree-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "magetta-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 2
+  },
+  "mule-super": {
+    "role": "villain",
+    "race": "android",
+    "tier": 1
+  },
+  "sakaku-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "liqueur-super": {
+    "role": "support",
+    "race": "god",
+    "tier": 4
+  },
+  "monna-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "tagoma-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "sorbet-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "shisami-super": {
+    "role": "villain",
+    "race": "alien",
+    "tier": 1
+  },
+  "goten-super": {
+    "role": "hero",
+    "race": "half-saiyan",
+    "tier": 2
+  },
+  "bulma-super": {
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  },
+  "chi-chi-super": {
+    "role": "support",
+    "race": "human",
+    "tier": 1
+  }
+}

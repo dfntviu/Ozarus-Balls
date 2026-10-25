@@ -1,0 +1,136 @@
+[
+  {
+    "nombre": "Goku Niño",
+    "nombre_original": "Goku Niño",
+    "origen": "sagas",
+    "descripcion": "Es el protagonista de todas las Sagas. En Gt, su fuerza fue limítada por un deseo malintecionado de su antigüo rival Pilaf. Aunque, perdió bastance porcentaje de pelea.Desarrolló habilidades de supervivencia y mejora su estrategia de combate, caract. que le ayudo en su transformacion SSJ4.",
+    "imagen": "dragon.ball.gt/Im.1-Goku.nino.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Puño de Dragón",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Pan",
+    "nombre_original": "Pan",
+    "origen": "sagas",
+    "descripcion": "Es la nieta de Goku, es muy comprensiva. Su nivel de pelea es bajo, ya que es hija de Gohan, es un sayayin hibrido. Pero es muy floja Cuenta con técnicas sencillas. y no tiene tecnicas propias.",
+    "imagen": "dragon.ball.gt/Im.02-Pan.jpg"
+  },
+  {
+    "nombre": "Baby",
+    "nombre_original": "Baby",
+    "origen": "sagas",
+    "descripcion": "Baby es el tsufurujin mejorado por el Dr. Guero, con el propósito de acabar con los sayayin, este se alimenta del Alma de las personas y es muy peligroso pues roba su energía.",
+    "imagen": "dragon.ball.gt/Im.06-Baby.jpg"
+  },
+  {
+    "nombre": "Gohan",
+    "nombre_original": "gohan Adulto",
+    "origen": "sagas",
+    "descripcion": "Sigue siendo muy fuerte, especialmente cuando se transforma en Super Saiyan 2. Aunque su nivel de poder puede no ser tan alto como el de Goku o Vegeta en sus formas más avanzadas, su capacidad para manejar situaciones difíciles.Gohan combina su inteligencia natural con sus habilidades de combate.",
+    "imagen": "dragon.ball.gt/Im.05-Gohan.jpg"
+  },
+  {
+    "nombre": "General Rildo",
+    "nombre_original": "Grl ryldo",
+    "origen": "sagas",
+    "descripcion": "Es un miembro de la raza de los Androides, creados por el Dr. Myuu. Es uno de los antagonistas principales de la saga de los Dragones Oscuros. En su forma original, Ryldo tiene la apariencia de un humano.En su forma mecánica es extremadamente poderoso y representa una amenaza Su capacidad para transformar su cuerpo en varias formas ofensivas le permite luchar eficazmente",
+    "imagen": "dragon.ball.gt/Im.06-Grl.Ryldo.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Transformar partes de su cuerpo en armas",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Súper 17",
+    "nombre_original": "super 17",
+    "origen": "sagas",
+    "descripcion": "Es una fusión del androide 17 de Dragon Ball Z y del androide 17 creado por el Dr. Myuu,el androide 17 original fusionan sus energías para crear a Super 17, pero con habilidades mucho más avanzadas.",
+    "imagen": "dragon.ball.gt/Im.07-Super-17.jpg",
+    "notas": [
+      "Creadores: Dr. Myuu & Dr. Makijero"
+    ]
+  },
+  {
+    "nombre": "Dragón de 2 Estrellas",
+    "nombre_original": "Dragon 2 Estrellas",
+    "origen": "sagas",
+    "descripcion": "Este, forma parte de los Dragones Oscuros. Combina una fuerza respetable con habilidades de combate tácticas y técnicas únicas basadas en el hielo, combina sus técnicas físicas y ataques basados en el control del hielo",
+    "imagen": "dragon.ball.gt/Im.09-Eis-sheronjpg.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Manipular Hielo",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Goku",
+    "nombre_original": "goku SSajin 04",
+    "origen": "sagas",
+    "descripcion": "Goku en la forma Super Saiyan 4 es increíblemente poderoso, con un nivel de poder que supera al de los Super Saiyan 3 y se acerca al de los dioses de la destrucción en términos de fuerza y habilidades.",
+    "imagen": "dragon.ball.gt/Im.09-Goku.Ss4.jpg",
+    "transformaciones": [
+      "Super Saiyajin 4"
+    ],
+    "tecnicas": [
+      {
+        "nombre": "Blutz Wave Attack",
+        "descripcion": ""
+      },
+      {
+        "nombre": "Puño Dragón",
+        "descripcion": ""
+      }
+    ],
+    "notas": [
+      "ruta de imagen corregida (mayúsculas): dragon.ball.gt/Im.09-goku.Ss4.jpg"
+    ]
+  },
+  {
+    "nombre": "Vegeta",
+    "nombre_original": "vegetta SSajin 04",
+    "origen": "sagas",
+    "descripcion": "Es extremadamente fuerte, superando a los Super Saiyan anteriores y rivalizando con el poder de Goku en la misma forma. Es capaz de enfrentarse a enemigos muy poderosos, incluidos los dragones oscuros, este muestra un aumento en sus habilidades de combate y técnicas, combinando la agresividad del Oozaru con el control y presición",
+    "imagen": "dragon.ball.gt/Im.10-vegueta.Ss4.jpg",
+    "transformaciones": [
+      "Super Saiyajin 4"
+    ],
+    "tecnicas": [
+      {
+        "nombre": "Ataq Big Bang",
+        "descripcion": ""
+      },
+      {
+        "nombre": "Resplandor Final",
+        "descripcion": ""
+      }
+    ]
+  },
+  {
+    "nombre": "Dragón de 1 Estrella",
+    "nombre_original": "una estrella",
+    "origen": "sagas",
+    "descripcion": "Su nivel de poder está muy por encima de los dragones de menor rango como el Dragón de Una Estrella y el Dragón de Dos Estrellas,representa una gran amenaza debido a su alto nivel de poder y sus técnicas destructivas. Se debe de evitar sus ataques de energía y aprovechar sus momentos de vulnerabilidad. Es crucial utilizar ataques rápidos y coordinados.",
+    "imagen": "dragon.ball.gt/Im.10-Yi-Shenron.jpg",
+    "tecnicas": [
+      {
+        "nombre": "Absorción",
+        "descripcion": ""
+      },
+      {
+        "nombre": "Bola",
+        "descripcion": ""
+      },
+      {
+        "nombre": "Aliento de energí obscura",
+        "descripcion": ""
+      }
+    ]
+  }
+]
