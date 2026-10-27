@@ -1,7 +1,7 @@
 import { useSearchParams } from 'react-router';
 import { publishedSagas, SAGAS_BY_ID } from '../data/sagas.ts';
 import { byPower, characters, countBy, factions, findFaction } from '../data/characters/index.ts';
-import { factionImage } from '../lib/image.ts';
+import { factionImage } from '../lib/images.ts';
 import { CharacterGrid } from '../components/character/CharacterGrid.tsx';
 import { FilterChips } from '../components/filters/FilterChips.tsx';
 import styles from './VillainsPage.module.css';

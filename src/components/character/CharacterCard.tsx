@@ -1,5 +1,5 @@
 import { RACE_LABEL, ROLE_LABEL, type Character } from '../../types/character.ts';
-import { characterImage } from '../../lib/image.ts';
+import { characterImage } from '../../lib/images.ts';
 import { factionName } from '../../data/characters/index.ts';
 import { TierStars } from './TierStars.tsx';
 import { TechniqueList } from './TechniqueList.tsx';

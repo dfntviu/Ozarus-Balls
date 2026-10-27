@@ -11,7 +11,7 @@ import { NotFoundPage } from "../pages/NotFoundPage";  //navegacion erronea
 
  const ROLE_PLURAL : Record<Role, string> = { hero:'Heroes' , villain: 'Villanos', support: 'Apoyo'};
 
-  export function SaaPagePhaseFour(){
+  export function SagaPagePhaseFour(){
     const {sagaId} = useParams();
     const [params] = useSearchParams()
     const {hash} = useLocation();
@@ -85,7 +85,7 @@ import { NotFoundPage } from "../pages/NotFoundPage";  //navegacion erronea
                 <div className={styles.filters}>
                     <FilterChips label='Rol' param='rol' total={all.length}  options={ROLES.map((r) => ({ value: r, label: ROLE_PLURAL[r], count: roleCounts[r] ?? 0 }))} />
                     { arcs.length > 0 && (
-                        <FilterChips label='Arco' param='arco' total={all.length} options={ROLES.map((a) => ({ value: a, label: ROLE_PLURAL[a], count: roleCounts[a] ?? 0 }))}/>
+                        <FilterChips label='Arco' param='arco' total={all.length} options={ROLES.map((a) => ({ value: a, label: ROLE_PLURAL[a], count: arcCounts[a] ?? 0 }))}/>
                     )}
                 </div>
                 <CharacterGrid characters={visible}/>
