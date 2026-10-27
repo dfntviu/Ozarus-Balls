@@ -88,7 +88,7 @@ import { NotFoundPage } from "../pages/NotFoundPage";  //navegacion erronea
                         <FilterChips label='Arco' param='arco' total={all.length} options={ROLES.map((a) => ({ value: a, label: ROLE_PLURAL[a], count: arcCounts[a] ?? 0 }))}/>
                     )}
                 </div>
-                <CharacterGrid characters={visible}/>
+                <CharacterGrid characters={visible}/>  {/* roleCounts[a] */}
             </section>
         </article>
     );

@@ -1,7 +1,8 @@
 import type { CSSProperties } from 'react';
 import { Link } from 'react-router';
 import { SAGA_LIST } from '../data/sagas.ts';
-import { bySaga } from '../data/characters/index.ts';
+import stats from '../data/characters/stats.json' with {type: 'json' }
+// import { bySaga } from '../data/characters/index.ts';
 import styles from './HomePage.module.css';
 
 export function HomePage() {
@@ -26,7 +27,8 @@ export function HomePage() {
         <h2 id="sagas-title" className={styles.sectionTitle}>Sagas</h2>
         <ul className={styles.grid}>
           {SAGA_LIST.map((saga, i) => {
-            const count = bySaga(saga.id).length;
+            const count = (stats as Record <string, {characters: number}>)[saga.id]?.characters ?? 0;
+            // const count = bySaga(saga.id).length;
             const body = (
               <>
                 <div className={styles.cover}>
