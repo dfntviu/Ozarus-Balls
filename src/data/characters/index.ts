@@ -24,6 +24,20 @@ export const bySaga = (saga: SagaId) => characters.filter((c) => c.saga === saga
 export const byRole = (role: Role, list = characters) => list.filter((c) => c.role === role);
 export const byFaction = (factionId: string) => characters.filter((c) => c.faction === factionId);
 
+// Se anaden 2 variables para los filtros
+ export const findFaction = (id: string| null| undefined) => factions.find((f)=> f.id ===id); 
+ export const factionName = (id: string) => findFaction(id)?.name ?? id;
+ 
+ export const byPower = (a: Character, b: Character) =>
+     b.tier - a.tier || (b.power?.value ?? 0) || (a.power?.value ?? 0) || a.name.localeCompare(b.name, 'es')
+
+ export const countBy = <K extends string>(list: Character[], key: (c: Character) => K | undefined) =>
+    list.reduce<Partial<Record<K,number>>>((acc, c) => {
+      const k = key(c);
+      if(k!==undefined) acc[k] =(acc[k] ?? 0) + 1;
+      return acc;
+    }, {});
+
 /** Razas que se presentan como categoría propia en los destacados, no como guerreros. */
 const DEITY_RACES: readonly Race[] = ['god'];
 const ANGEL_RACES: readonly Race[] = ['angel'];

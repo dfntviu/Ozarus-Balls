@@ -18,7 +18,8 @@
     "data:z": "node scripts/normalize-saga.ts z",
     "data:gt": "node scripts/normalize-saga.ts gt",
     "data:super": "node scripts/normalize-saga.ts super",
-    "data": "npm run data:dragon-ball && npm run data:z && npm run data:gt && npm run data:super"
+    "data": "npm run data:dragon-ball && npm run data:z && npm run data:gt && npm run data:super",
+    "images": "node scripts/optimize-images.ts ../Ozarus-Y.Balls"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",

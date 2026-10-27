@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { Outlet } from 'react-router';
 import { Navbar } from './Navbar.tsx';
 import styles from './Layout.module.css';
@@ -8,7 +9,9 @@ export function Layout() {
       <a href="#contenido" className={styles.skip}>Saltar al contenido</a>
       <Navbar />
       <main id="contenido" className={styles.main} tabIndex={-1}>
+         <Suspense fallback={ <p className={styles.loading} role="status" >Reuniendo las esferas..</p>}>
         <Outlet />
+        </Suspense>
       </main>
       <footer className={styles.footer}>
         <div className={styles.footerInner}>

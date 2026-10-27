@@ -1,0 +1,84 @@
+.block {
+  margin-top: var(--space-4);
+}
+
+.title {
+  display: inline-block;
+  margin-bottom: var(--space-2);
+  padding: 0 var(--space-2);
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+  font-size: var(--text-sm);
+}
+
+.title[data-weakness='true'] {
+  background: var(--color-ink);
+  color: var(--color-bg);
+}
+
+.list {
+  display: grid;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.item {
+  padding: var(--space-2) var(--space-3);
+  border: var(--border-thin);
+  border-radius: var(--radius-panel);
+  background: var(--color-bg);
+}
+
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+}
+
+.name {
+  font-weight: 700;
+  font-size: var(--text-sm);
+}
+
+.description {
+  margin-top: var(--space-1);
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  line-height: 1.5;
+}
+
+/* ---------- Insignia de impacto: la intensidad sube con el nivel ---------- */
+.impact {
+  flex-shrink: 0;
+  padding: 0 var(--space-2);
+  border: var(--border-thin);
+  border-radius: var(--radius-pill);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.impact[data-impact='utility'] {
+  border-style: dashed;
+  color: var(--color-text-muted);
+}
+.impact[data-impact='low'] {
+  background: var(--color-surface-alt);
+  color: var(--color-text);
+}
+.impact[data-impact='mid'] {
+  background: var(--color-highlight);
+  color: var(--color-on-highlight);
+}
+.impact[data-impact='high'] {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+.impact[data-impact='max'] {
+  background: var(--color-ink);
+  color: var(--color-bg);
+  box-shadow: 2px 2px 0 var(--color-primary);
+}

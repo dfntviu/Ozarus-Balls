@@ -84,6 +84,9 @@ export function Navbar() {
             <ul className={styles.links}>
               {LINKS.map((l) => (
                 <li key={l.to}>
+                  {/* Cerrar al hacer clic: con paginas diferidas, la ruta no cambia hasta que llega su chunk
+                  y el menú se quedará abierto mientras carga. El cierre por cambio de ruta(arriba)
+                  sigue cubriendo atrás/delante del navegador. */}
                   <NavLink to={l.to} end={l.end} className={({ isActive }) => (isActive ? `${styles.link} ${styles.active}` : styles.link)}>
                     {l.label}
                   </NavLink>

@@ -39,6 +39,10 @@ export type Tier = (typeof TIERS)[number];
 export const IMPACTS = ['low', 'mid', 'high', 'max'] as const;
 export type Impact = (typeof IMPACTS)[number];
 
+// Nuevas Constantes para mostrar nivel de Poder (forma Exponencial)
+  export const ROLE_LABEL: Record<Role,string> = { hero: 'Heroe', villain: 'Villano', support: 'soporte'};
+  export const  IMPACT_LABEL: Record<Impact, string> = { low: 'bajo', mid: 'medio', high: 'alto', max: 'Maximo'};
+
 export interface PowerLevel {
   /** Cifra numérica, solo si la fuente la trae (oficial o estimada). */
   value?: number;

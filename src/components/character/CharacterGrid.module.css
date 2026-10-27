@@ -1,0 +1,24 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  gap: var(--space-6) var(--space-5);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.grid > li {
+  display: flex;
+}
+
+.grid > li > * {
+  flex: 1;
+}
+
+.empty {
+  padding: var(--space-6);
+  border: 2px dashed var(--color-ink);
+  border-radius: var(--radius-panel);
+  text-align: center;
+  color: var(--color-text-muted);
+}

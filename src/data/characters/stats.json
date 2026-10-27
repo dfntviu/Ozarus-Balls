@@ -1,0 +1,22 @@
+ {
+    "dragon-ball":{
+        "characters": 31,
+        "herores": 11,
+        "villains": 12
+    },
+    "z":{
+        "characters": 56,
+        "herores": 24,
+        "villains": 20
+    },
+    "gt":{
+        "characters": 10,
+        "herores": 5,
+        "villains": 5
+    },
+    "super":{
+        "characters": 52,
+        "herores": 12,
+        "villains": 28
+    }
+ }

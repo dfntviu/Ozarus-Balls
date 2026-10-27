@@ -1,0 +1,26 @@
+.stars {
+  display: inline-flex;
+  gap: 1px;
+  padding: 2px var(--space-2);
+  border: var(--border-thin);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  font-size: 0.8rem;
+  line-height: 1.2;
+  letter-spacing: 0;
+}
+
+/* Estrella "encendida": rojo de las esferas sobre el halo amarillo */
+.on {
+  color: #c4161c;
+  text-shadow: 0 0 0 #c4161c;
+}
+
+:root[data-theme='crimson'] .on {
+  color: var(--color-highlight);
+}
+
+.off {
+  color: var(--color-text-muted);
+  opacity: 0.45;
+}

@@ -83,15 +83,25 @@ const TRANSFORMATION_RULES: [RegExp, (m: RegExpMatchArray) => string][] = [
   [/\btransformado\b/i, () => 'Forma transformada'],
 ];
 
+/**
+ * 
+ */
 const slug = (s: string) =>
   s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-
+//  Cada vez que se tenga un personaje que oscila mas de 1 millon entonces, tendrá que representarse de forma exponencial
+// Si no compara correctamente, entonces mandara un blanco en el DOM
 function parsePower(label: string): PowerLevel {
   const nums = [...label.matchAll(/\d[\d.,]*/g)].map((m) => Number(m[0].replace(/[.,]/g, ''))).filter((n) => n > 0);
   const value = nums.length ? Math.max(...nums) : undefined; // pico del arco
   return { ...(value !== undefined && { value }), label, official: value !== undefined && !NOT_OFFICIAL.test(label) };
 }
 
+/**
+ *  Si el matching corresponde con las reglas de transformacion (expresion regulares)
+ *  Destacara la transformacion y mostrara el nombre del personaje sino no hara nada
+ * @param labe
+ * @returns 
+ */
 const detectTransformations = (label = '') =>
   TRANSFORMATION_RULES.flatMap(([re, make]) => { const m = label.match(re); return m ? [make(m)] : []; });
 
@@ -99,6 +109,7 @@ const detectTransformations = (label = '') =>
  * "Daño Causado: Medio-alto" -> 'mid'. Toma el PRIMER nivel mencionado; "alto" + "máx" = 'max'.
  * "Ninguno" o textos sin nivel ("Habilidad de Supervivencia") -> sin impacto (técnica de utilidad).
  */
+// Con expresiones regulares
 function parseImpact(raw?: string): Impact | undefined {
   if (!raw) return undefined;
   const t = raw.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
@@ -111,6 +122,8 @@ function parseImpact(raw?: string): Impact | undefined {
 }
 
 /** Tier por escala logarítmica dentro del arco: 5 = cerca del máximo, 1 = cerca del mínimo. */
+// Despues de 1 million el usuario notara la escala exponencial de los niveles de poder
+// unicamente a partir del arco de cel.
 function computeTiers(items: { id: string; power?: PowerLevel }[]) {
   const vals = items.map((c) => c.power?.value).filter((v): v is number => v !== undefined);
   const tiers = new Map<string, Tier>();
@@ -127,7 +140,7 @@ function computeTiers(items: { id: string; power?: PowerLevel }[]) {
 }
 
 // ---------- Ejecución ----------
-
+  // La lectura del banco de datos (lectura de las propiedad levelpower y charactername en el despliegue de los personajes)
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const saga = process.argv[2] as SagaId;
 if (!SAGAS.includes(saga)) fail(`Saga inválida "${saga}". Opciones: ${SAGAS.join(', ')}`);
@@ -145,6 +158,8 @@ const impactLog: { raw: string; impact: Impact | undefined }[] = [];
 const drafts: Draft[] = [];
 
 // 1) Fuente manual (por arcos)
+  //Super | GT --> Personajes
+  //Daima | Super-2 --> Vacio
 for (const [arc, items] of Object.entries(source?.sagas ?? {})) {
   for (const raw of items) {
     drafts.push({
@@ -196,7 +211,7 @@ for (const l of legacy) {
     continue;
   }
   const legacyPower: PowerLevel | undefined =
-    typeof l.nivel_poder === 'number' ? { value: l.nivel_poder, label: l.nivel_poder.toLocaleString('es-MX'), official: false }
+    typeof   l.nivel_poder === 'number' ? { value: l.nivel_poder, label: l.nivel_poder.toLocaleString('es-MX'), official: false }
     : typeof l.nivel_poder === 'string' ? parsePower(l.nivel_poder)
     : undefined;
   drafts.push({
@@ -221,6 +236,9 @@ for (const [id, value] of Object.entries(powerFile ?? {})) {
   d.power = { value, label: value.toLocaleString('es-MX'), official: false };
 }
 
+/**
+ * obtiene la lectura del json solo si el id es correcto
+ */
 const factionIds = new Set((readJsonIf<{ id: string }[]>('src/data/factions.json') ?? []).map((f) => f.id));
 
 // 3) Capa editorial + validación
@@ -247,7 +265,7 @@ for (const d of drafts) {
   const tier = ed.tier ?? computed;
   if (!tier || !TIERS.includes(tier)) errors.push(`${d.id}: sin tier válido (no hay cifra y no hay tier editorial)`);
 
-  const transformations = ed.transformations ?? d.transformations ?? detectTransformations(d.power?.label);
+  const    transformations = ed.transformations ?? d.transformations ?? detectTransformations(d.power?.label);
   const signatureTechnique = ed.signatureTechnique ?? d.signatureTechnique ?? d.techniques?.[0]?.name;
   const { rawRace, race: _r, transformations: _t, signatureTechnique: _s, ...rest } = d;
   const character: Character = {

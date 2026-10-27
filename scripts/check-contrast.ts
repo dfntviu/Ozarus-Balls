@@ -23,13 +23,41 @@ function collect(css: string, match: (selector: string) => boolean): Vars {
   return vars;
 }
 
-function luminance(hex: string) {
-  const h = hex.replace('#', '');
-  const full = h.length === 3 ? [...h].map((c) => c + c).join('') : h.slice(0, 6);
+/**
+ * PROPOSITO: Calcular la luminancia relativa de un color hexadecimal para determinar que tan
+ * claro u obscuro es visualmente. Este valor puede utilizarse para mejorar el contranste y la
+ * legibilidad del texto o de elementos visuales de una interfaz. No modifica el color,
+ * ni genera nuevos colores.
+ */
+
+// PROCESO
+  /**
+   * 1.Elimina el simbolo y convierte el valor hexadecimal a un formato de 6 dígitos.
+   * 2. Extrae los canales RGV, normaliza sus valores y aplica un atransformación gamma para obtener la luminancia relativa de cada canal.
+   * 3. Combina los canales mediante pesos especificos para obtener la luminancia relativa final. (0.2126 para R, 0.7152 para G y 0.0722 para B) 
+   *  ==>  devuelve un unico valor de luminancia relativa entre 0 y 1.
+   */
+function luminance(hex: string) {  //#F => FF; 8 => 88;  0 => 00
+  const h = hex.replace('#', '');  //F80  FF|88|00
+  const full = h.length === 3 ? [...h].map((c) => c + c).join('') : h.slice(0, 6); // FF8800
   const [r, g, b] = [0, 2, 4].map((i) => parseInt(full.slice(i, i + 2), 16) / 255)
-    .map((c) => (c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4));
   return 0.2126 * r! + 0.7152 * g! + 0.0722 * b!;
 }
+
+
+ /**
+  *  Calcula la relación de contraste entre dos colores.
+  * @param a - El color del texto.
+  * @param b - El color del fondo.
+  * @returns La relación de contraste.
+  */
+ /**
+  * 0.05: Es una constante que se suma a ambas luminancias para evitar valores
+  * cercanos a cero, produzcan relación de contraste extremos.
+  * 
+  * Produciente el resultado. Para, calcular la relación de contraste entre dos colores para evaluar 
+  * su adecuación a los criterios de legibilidad y accesibilidad visual
+  */
 const ratio = (a: string, b: string) => {
   const [l1, l2] = [luminance(a), luminance(b)].sort((x, y) => y - x);
   return (l1! + 0.05) / (l2! + 0.05);
